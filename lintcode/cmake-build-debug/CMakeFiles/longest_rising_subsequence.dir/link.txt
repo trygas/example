@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/longest_rising_subsequence.dir/longest_rising_subsequence/longest_rising_subsequence.cpp.o  -o longest_rising_subsequence -rdynamic 

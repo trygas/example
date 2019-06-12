@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/maximum_subarray_difference.dir/maximum_subarray_difference/maximum_subarray_difference.cpp.o  -o maximum_subarray_difference -rdynamic 

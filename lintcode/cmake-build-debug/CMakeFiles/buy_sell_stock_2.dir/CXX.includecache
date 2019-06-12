@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././general.h
+iostream
+-
+vector
+-
+queue
+-
+deque
+-
+map
+-
+set
+-
+string
+-
+cstring
+-
+stdlib.h
+-
+fstream
+-
+algorithm
+-
+
+/home/liu/my_progs/lintcode/buy_sell_stock_2/buy_sell_stock_2.cpp
+general.h
+/home/liu/my_progs/lintcode/buy_sell_stock_2/general.h
+

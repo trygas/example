@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/full_data_sort.dir/full_data_sort/full_data_sort.cpp.o  -o full_data_sort -rdynamic 

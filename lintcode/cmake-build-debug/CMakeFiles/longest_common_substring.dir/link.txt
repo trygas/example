@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/longest_common_substring.dir/longest_common_substring/longest_common_substring.cpp.o  -o longest_common_substring -rdynamic 

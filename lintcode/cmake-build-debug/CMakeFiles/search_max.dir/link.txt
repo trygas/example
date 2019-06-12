@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/search_max.dir/search_max/search_max.cpp.o  -o search_max -rdynamic 

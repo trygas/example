@@ -1,0 +1,3 @@
+/home/liu/my_progs/example/box/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/box/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_progs/example/box/cmake-build-debug/CMakeFiles/box.dir

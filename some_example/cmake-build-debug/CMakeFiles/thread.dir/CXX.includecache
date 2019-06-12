@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/my_progs/example/some_example/thread/thread.cpp
+iostream
+-
+time.h
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+

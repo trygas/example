@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/maximum_subdirectory.dir/maximum_subdirectory/maximum_subdirectory.cpp.o  -o maximum_subdirectory -rdynamic 

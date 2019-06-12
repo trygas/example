@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../slam/svo_edgelet/src/frame_handler_mono.cpp" description="{" line="110" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="lintcode" targetName="C++_reflection" />
+      <config projectName="lintcode" targetName="last_zero" />
+      <config projectName="lintcode" targetName="binary_tree_vertical_traversal" />
+      <config projectName="lintcode" targetName="out_of_order_string" />
+      <config projectName="lintcode" targetName="range_addition" />
+      <config projectName="lintcode" targetName="lowest_common_ancestor_binary_tree" />
+      <config projectName="lintcode" targetName="ugly_number" />
+      <config projectName="lintcode" targetName="n_queen" />
+      <config projectName="lintcode" targetName="bag_question" />
+      <config projectName="lintcode" targetName="ladder_length" />
+      <config projectName="lintcode" targetName="litte_friend" />
+      <config projectName="lintcode" targetName="edit_distance" />
+      <config projectName="lintcode" targetName="segment_tree" />
+      <config projectName="lintcode" targetName="re_hash" />
+      <config projectName="lintcode" targetName="rotata_string" />
+      <config projectName="lintcode" targetName="stack_queue" />
+      <config projectName="lintcode" targetName="house_dyeing" />
+      <config projectName="lintcode" targetName="class_schedule" />
+      <config projectName="lintcode" targetName="catch_card" />
+      <config projectName="lintcode" targetName="search_rotation_vector" />
+      <config projectName="lintcode" targetName="subset" />
+      <config projectName="lintcode" targetName="eat_noddle" />
+      <config projectName="lintcode" targetName="search_max" />
+      <config projectName="lintcode" targetName="many_cpu" />
+      <config projectName="lintcode" targetName="count_num" />
+      <config projectName="lintcode" targetName="search_range" />
+      <config projectName="lintcode" targetName="buy_fruit" />
+      <config projectName="lintcode" targetName="ternary_parser" />
+      <config projectName="lintcode" targetName="maximum_subdirectory" />
+      <config projectName="lintcode" targetName="min_stack" />
+      <config projectName="lintcode" targetName="longest_common_substring" />
+      <config projectName="lintcode" targetName="segment_tree_2" />
+      <config projectName="lintcode" targetName="find_string" />
+      <config projectName="lintcode" targetName="eat_food" />
+      <config projectName="lintcode" targetName="configurator" />
+      <config projectName="lintcode" targetName="cross_string" />
+      <config projectName="lintcode" targetName="search_word" />
+      <config projectName="lintcode" targetName="largest_path_binary_tree" />
+      <config projectName="lintcode" targetName="binary_tree_search_interval" />
+      <config projectName="lintcode" targetName="perfect_square" />
+      <config projectName="lintcode" targetName="robbery" />
+      <config projectName="lintcode" targetName="maximum_subarray_difference" />
+      <config projectName="lintcode" targetName="jump_game" />
+      <config projectName="lintcode" targetName="k_num_sum" />
+      <config projectName="lintcode" targetName="search_rotation_sort_array" />
+      <config projectName="lintcode" targetName="character_case_order" />
+      <config projectName="lintcode" targetName="buy_sell_stock_3" />
+      <config projectName="lintcode" targetName="buy_sell_stock_2" />
+      <config projectName="lintcode" targetName="three_num_sum" />
+      <config projectName="lintcode" targetName="eigen_eigenvalues" />
+      <config projectName="lintcode" targetName="full_data_sort" />
+      <config projectName="lintcode" targetName="max_square" />
+      <config projectName="lintcode" targetName="buy_sell_stock" />
+      <config projectName="lintcode" targetName="example_template" />
+      <config projectName="lintcode" targetName="expression_expand" />
+      <config projectName="lintcode" targetName="longest_rising_subsequence" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="514d08dc-7a8b-48f9-bd20-da414f432129" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1860154210">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.opened" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="48115" />
+          <entry key="h" value="10768" />
+          <entry key="md" value="1375" />
+          <entry key="txt" value="1270" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="1238" />
+          <entry key="Markdown" value="1375" />
+          <entry key="ObjectiveC" value="58883" />
+          <entry key="PLAIN_TEXT" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="buy_sell_stock_3 (disassembly)" value="1" />
+          <entry key="character_case_order (disassembly)" value="1" />
+          <entry key="configurator (disassembly)" value="4" />
+          <entry key="cpp" value="73" />
+          <entry key="eigen_eigenvalues (disassembly)" value="1" />
+          <entry key="h" value="30" />
+          <entry key="jump_game (disassembly)" value="1" />
+          <entry key="lowest_common_ancestor_binary_tree (disassembly)" value="1" />
+          <entry key="md" value="25" />
+          <entry key="segment_tree (disassembly)" value="1" />
+          <entry key="segment_tree_2 (disassembly)" value="1" />
+          <entry key="tcc" value="1" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="Disassembly" value="11" />
+          <entry key="Markdown" value="25" />
+          <entry key="ObjectiveC" value="104" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lintcode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buy_fruit/buy_fruit.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[</find>
+      <find>]</find>
+      <find>{</find>
+      <find>printVector</find>
+      <find>dnf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>PrintVector</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/min_stack/min_stack.cpp" />
+        <option value="$PROJECT_DIR$/min_stack/README.md" />
+        <option value="$PROJECT_DIR$/expression_expand/expression_expand.cpp" />
+        <option value="$PROJECT_DIR$/expression_expand/README.md" />
+        <option value="$PROJECT_DIR$/ternary_parser/ternary_parser.cpp" />
+        <option value="$PROJECT_DIR$/ternary_parser/README.md" />
+        <option value="$PROJECT_DIR$/out_of_order_string/out_of_order_string.cpp" />
+        <option value="$PROJECT_DIR$/out_of_order_string/README.md" />
+        <option value="$PROJECT_DIR$/C++_reflection/C++_reflection.cpp" />
+        <option value="$PROJECT_DIR$/re_hash/README.md" />
+        <option value="$PROJECT_DIR$/re_hash/re_hash.cpp" />
+        <option value="$PROJECT_DIR$/eigen_eigenvalues/eigen_eigenvalues.cpp" />
+        <option value="$PROJECT_DIR$/eat_noddle/eat_noddle.cpp" />
+        <option value="$PROJECT_DIR$/eat_food/eat_food.cpp" />
+        <option value="$PROJECT_DIR$/binary_tree_vertical_traversal/binary_tree_vertical_traversal.cpp" />
+        <option value="$PROJECT_DIR$/binary_tree_vertical_traversal/README.md" />
+        <option value="$PROJECT_DIR$/catch_card/catch_card.cpp" />
+        <option value="$PROJECT_DIR$/example_template/example_template.cpp" />
+        <option value="$PROJECT_DIR$/segment_tree/README.md" />
+        <option value="$PROJECT_DIR$/litte_friend/little_friend.cpp" />
+        <option value="$PROJECT_DIR$/segment_tree/segment_tree.cpp" />
+        <option value="$PROJECT_DIR$/segment_tree_2/README.md" />
+        <option value="$PROJECT_DIR$/segment_tree_2/segment_tree_2.cpp" />
+        <option value="$PROJECT_DIR$/verify_binary_tree.cpp" />
+        <option value="$PROJECT_DIR$/verify_binary_tree/verify_binary_tree.cpp" />
+        <option value="$PROJECT_DIR$/search_max/search_max.cpp" />
+        <option value="$PROJECT_DIR$/search_rotation_vector/search_rotation_vector.cpp" />
+        <option value="$PROJECT_DIR$/ugly_number/ugly_number.cpp" />
+        <option value="$PROJECT_DIR$/binary_tree_search_interval/binary_tree_search_interval.cpp" />
+        <option value="$PROJECT_DIR$/cross_string/cross_string.cpp" />
+        <option value="$PROJECT_DIR$/maximum_subdirectory/maximum_subdirectory.cpp" />
+        <option value="$PROJECT_DIR$/configurator/configurator.txt" />
+        <option value="$PROJECT_DIR$/configurator/configurator.cpp" />
+        <option value="$PROJECT_DIR$/buy_sell_stock/buy_sell_stock.cpp" />
+        <option value="$PROJECT_DIR$/buy_sell_stock_2/buy_sell_stock_2.cpp" />
+        <option value="$PROJECT_DIR$/buy_sell_stock_3/buy_sell_stock_3.cpp" />
+        <option value="$PROJECT_DIR$/maximum_subarray_difference/maximum_subarray_difference.cpp" />
+        <option value="$PROJECT_DIR$/character_case_order/character_case_order.cpp" />
+        <option value="$PROJECT_DIR$/three_num_sum/three_sum_num.cpp" />
+        <option value="$PROJECT_DIR$/search_range/search_range.cpp" />
+        <option value="$PROJECT_DIR$/search_rotation_sort_array/search_rotation_sort_array.cpp" />
+        <option value="$PROJECT_DIR$/general.h" />
+        <option value="$PROJECT_DIR$/longest_rising_subsequence/longest_rising_subsequence.cpp" />
+        <option value="$PROJECT_DIR$/longest_common_substring/longest_common_substring.cpp" />
+        <option value="$PROJECT_DIR$/range_addition/range_addition.cpp" />
+        <option value="$PROJECT_DIR$/bag_question/bag_question.cpp" />
+        <option value="$PROJECT_DIR$/k_num_sum/k_num_sum.cpp" />
+        <option value="$PROJECT_DIR$/lowest_common_ancestor_binary_tree/lowest_common_ancestor_binary_tree.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/many_cpu/many_cpu.cpp" />
+        <option value="$PROJECT_DIR$/buy_fruit/buy_fruit.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1280" />
+    <option name="y" value="24" />
+    <option name="width" value="1280" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="many_cpu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../example/some_example/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.cpp.clangd" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.buy_fruit">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C++_reflection" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="C++_reflection" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bag_question" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="bag_question" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="bag_question">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_tree_search_interval" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="binary_tree_search_interval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="binary_tree_search_interval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_tree_vertical_traversal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="binary_tree_vertical_traversal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buy_fruit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="buy_fruit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="buy_fruit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buy_sell_stock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="buy_sell_stock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="buy_sell_stock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buy_sell_stock_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="buy_sell_stock_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="buy_sell_stock_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buy_sell_stock_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="buy_sell_stock_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="buy_sell_stock_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="catch_card" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="catch_card" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="character_case_order" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="character_case_order" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="character_case_order">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="class_schedule" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="class_schedule" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="configurator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="configurator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="configurator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count_num" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="count_num" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cross_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="cross_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="cross_string">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eat_food" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="eat_food" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eat_noddle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="eat_noddle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edit_distance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="edit_distance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eigen_eigenvalues" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="eigen_eigenvalues" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example_template" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="example_template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="expression_expand" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="expression_expand" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="find_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="full_data_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="full_data_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="house_dyeing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="house_dyeing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jump_game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="jump_game" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k_num_sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="k_num_sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="k_num_sum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ladder_length" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="ladder_length" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="largest_path_binary_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="largest_path_binary_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="last_zero" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="last_zero" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="litte_friend" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="litte_friend" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longest_common_substring" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="longest_common_substring" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="longest_common_substring">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longest_rising_subsequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="longest_rising_subsequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="longest_rising_subsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowest_common_ancestor_binary_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="lowest_common_ancestor_binary_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="lowest_common_ancestor_binary_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="many_cpu" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="many_cpu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="many_cpu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="max_square" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="max_square" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maximum_subarray_difference" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="maximum_subarray_difference" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="maximum_subarray_difference">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maximum_subdirectory" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="maximum_subdirectory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="maximum_subdirectory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="min_stack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="min_stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n_queen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="n_queen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="out_of_order_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="out_of_order_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perfect_square" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="perfect_square" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="range_addition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="range_addition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="range_addition">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="re_hash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="re_hash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="robbery" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="robbery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotata_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="rotata_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_max" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="search_max" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_max">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_range" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="search_range" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_range">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_rotation_sort_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="search_rotation_sort_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_rotation_sort_array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_rotation_vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="search_rotation_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_rotation_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_word" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="search_word" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="search_word">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="segment_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="segment_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="segment_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="segment_tree_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="segment_tree_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="segment_tree_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack_queue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="stack_queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="stack_queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subset" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="subset" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="subset">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ternary_parser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="ternary_parser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="ternary_parser">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_num_sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="three_num_sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="three_num_sum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ugly_number" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lintcode" TARGET_NAME="ugly_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lintcode" RUN_TARGET_NAME="ugly_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.bag_question" />
+      <item itemvalue="Application.binary_tree_search_interval" />
+      <item itemvalue="Application.binary_tree_vertical_traversal" />
+      <item itemvalue="Application.buy_fruit" />
+      <item itemvalue="Application.buy_sell_stock" />
+      <item itemvalue="Application.buy_sell_stock_2" />
+      <item itemvalue="Application.buy_sell_stock_3" />
+      <item itemvalue="Application.C++_reflection" />
+      <item itemvalue="Application.catch_card" />
+      <item itemvalue="Application.character_case_order" />
+      <item itemvalue="Application.class_schedule" />
+      <item itemvalue="Application.configurator" />
+      <item itemvalue="Application.count_num" />
+      <item itemvalue="Application.cross_string" />
+      <item itemvalue="Application.eat_food" />
+      <item itemvalue="Application.eat_noddle" />
+      <item itemvalue="Application.edit_distance" />
+      <item itemvalue="Application.eigen_eigenvalues" />
+      <item itemvalue="Application.example_template" />
+      <item itemvalue="Application.expression_expand" />
+      <item itemvalue="Application.find_string" />
+      <item itemvalue="Application.full_data_sort" />
+      <item itemvalue="Application.house_dyeing" />
+      <item itemvalue="Application.jump_game" />
+      <item itemvalue="Application.k_num_sum" />
+      <item itemvalue="Application.ladder_length" />
+      <item itemvalue="Application.largest_path_binary_tree" />
+      <item itemvalue="Application.last_zero" />
+      <item itemvalue="Application.litte_friend" />
+      <item itemvalue="Application.longest_common_substring" />
+      <item itemvalue="Application.longest_rising_subsequence" />
+      <item itemvalue="Application.lowest_common_ancestor_binary_tree" />
+      <item itemvalue="Application.many_cpu" />
+      <item itemvalue="Application.max_square" />
+      <item itemvalue="Application.maximum_subarray_difference" />
+      <item itemvalue="Application.maximum_subdirectory" />
+      <item itemvalue="Application.min_stack" />
+      <item itemvalue="Application.n_queen" />
+      <item itemvalue="Application.out_of_order_string" />
+      <item itemvalue="Application.perfect_square" />
+      <item itemvalue="Application.range_addition" />
+      <item itemvalue="Application.re_hash" />
+      <item itemvalue="Application.robbery" />
+      <item itemvalue="Application.rotata_string" />
+      <item itemvalue="Application.search_max" />
+      <item itemvalue="Application.search_range" />
+      <item itemvalue="Application.search_rotation_sort_array" />
+      <item itemvalue="Application.search_rotation_vector" />
+      <item itemvalue="Application.search_word" />
+      <item itemvalue="Application.segment_tree" />
+      <item itemvalue="Application.segment_tree_2" />
+      <item itemvalue="Application.stack_queue" />
+      <item itemvalue="Application.subset" />
+      <item itemvalue="Application.ternary_parser" />
+      <item itemvalue="Application.three_num_sum" />
+      <item itemvalue="Application.ugly_number" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514d08dc-7a8b-48f9-bd20-da414f432129" name="Default Changelist" comment="" />
+      <created>1534348303835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534348303835</updated>
+      <workItem from="1534348305661" duration="2084000" />
+      <workItem from="1534434788159" duration="31000" />
+      <workItem from="1534437643058" duration="6153000" />
+      <workItem from="1534680316087" duration="5535000" />
+      <workItem from="1535546194468" duration="7261000" />
+      <workItem from="1535639061456" duration="6435000" />
+      <workItem from="1535691051748" duration="61819000" />
+      <workItem from="1536724325624" duration="42758000" />
+      <workItem from="1537328053141" duration="8874000" />
+      <workItem from="1537970858235" duration="5398000" />
+      <workItem from="1538042798591" duration="3580000" />
+      <workItem from="1538210806460" duration="1207000" />
+      <workItem from="1538640119457" duration="954000" />
+      <workItem from="1538641468417" duration="10095000" />
+      <workItem from="1538814569930" duration="598000" />
+      <workItem from="1539095635618" duration="11058000" />
+      <workItem from="1540173719146" duration="13450000" />
+      <workItem from="1540807844430" duration="5265000" />
+      <workItem from="1540968996872" duration="19247000" />
+      <workItem from="1541731200748" duration="13295000" />
+      <workItem from="1542680465101" duration="617000" />
+      <workItem from="1542718507077" duration="647000" />
+      <workItem from="1542766966105" duration="5930000" />
+      <workItem from="1542803621259" duration="597000" />
+      <workItem from="1542853037830" duration="4334000" />
+      <workItem from="1543457705580" duration="894000" />
+      <workItem from="1543540393947" duration="1039000" />
+      <workItem from="1545043465768" duration="718000" />
+      <workItem from="1545360632588" duration="1015000" />
+      <workItem from="1547517979497" duration="597000" />
+      <workItem from="1547519326846" duration="2490000" />
+      <workItem from="1550198728444" duration="1455000" />
+      <workItem from="1551074733554" duration="710000" />
+      <workItem from="1551269063411" duration="798000" />
+      <workItem from="1551426552492" duration="703000" />
+      <workItem from="1551770573801" duration="1268000" />
+      <workItem from="1552026994034" duration="911000" />
+      <workItem from="1552900064493" duration="1188000" />
+      <workItem from="1553507144418" duration="596000" />
+      <workItem from="1554196736089" duration="867000" />
+      <workItem from="1554281473518" duration="317000" />
+      <workItem from="1554281934221" duration="599000" />
+      <workItem from="1554368534876" duration="626000" />
+      <workItem from="1555403478249" duration="6092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="260414000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="24" width="1280" height="1056" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.3298217" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50080514" side_tool="true" weight="0.3298217" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33081895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29122055" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286638" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32004312" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" side_tool="true" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/max_square/max_square.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/maximum_subarray_difference/maximum_subarray_difference.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/character_case_order/character_case_order.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/search_rotation_sort_array/search_rotation_sort_array.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/longest_rising_subsequence/longest_rising_subsequence.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lowest_common_ancestor_binary_tree/lowest_common_ancestor_binary_tree.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out_of_order_string/README.md" />
+    <entry file="file://$PROJECT_DIR$/C++_reflection/C++_reflection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out_of_order_string/out_of_order_string.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re_hash/README.md" />
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Eigenvalues/EigenSolver.h" />
+    <entry file="file://$PROJECT_DIR$/re_hash/re_hash.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eat_noddle/eat_noddle.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigen_eigenvalues/eigen_eigenvalues.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_vertical_traversal/README.md" />
+    <entry file="file://$PROJECT_DIR$/segment_tree/README.md" />
+    <entry file="file://$PROJECT_DIR$/verify_binary_tree.cpp" />
+    <entry file="file://$PROJECT_DIR$/verify_binary_tree/verify_binary_tree.cpp" />
+    <entry file="file://$PROJECT_DIR$/subset/subset.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jump_game/jump_game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_rotation_vector/search_rotation_vector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_max/search_max.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment_tree_2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litte_friend/little_friend.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ugly_number/ugly_number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_subdirectory/maximum_subdirectory.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_search_interval/binary_tree_search_interval.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cross_string/cross_string.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment_tree/segment_tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy_sell_stock_3/buy_sell_stock_3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configurator/configurator.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configurator/configurator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy_sell_stock_2/buy_sell_stock_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment_tree_2/segment_tree_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example_template/example_template.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catch_card/catch_card.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_subarray_difference/maximum_subarray_difference.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_iterator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="804" column="6" selection-start-line="804" selection-start-column="6" selection-end-line="804" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="991" column="4" selection-start-line="991" selection-start-column="4" selection-end-line="991" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree_vertical_traversal/binary_tree_vertical_traversal.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/character_case_order/character_case_order.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/three_num_sum/three_sum_num.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_range/search_range.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="653" column="6" selection-start-line="653" selection-start-column="6" selection-end-line="653" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/longest_rising_subsequence/longest_rising_subsequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_rotation_sort_array/search_rotation_sort_array.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/longest_common_substring/longest_common_substring.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k_num_sum/k_num_sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bag_question/bag_question.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/range_addition/range_addition.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lowest_common_ancestor_binary_tree/lowest_common_ancestor_binary_tree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="71" column="48" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/many_cpu/many_cpu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy_sell_stock/buy_sell_stock.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eat_food/eat_food.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy_fruit/buy_fruit.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

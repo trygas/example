@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/cross_string.dir/cross_string/cross_string.cpp.o  -o cross_string -rdynamic 

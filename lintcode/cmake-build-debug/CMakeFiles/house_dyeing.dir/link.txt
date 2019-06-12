@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/house_dyeing.dir/house_dyeing/house_dyeing.cpp.o  -o house_dyeing -rdynamic 

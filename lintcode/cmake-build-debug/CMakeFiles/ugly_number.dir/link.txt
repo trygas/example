@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ugly_number.dir/ugly_number/ugly_number.cpp.o  -o ugly_number -rdynamic 

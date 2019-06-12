@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/std::function.dir/std__function/std__function.cpp.o  -o std::function 

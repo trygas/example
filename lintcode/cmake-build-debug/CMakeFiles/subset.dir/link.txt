@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/subset.dir/subset/subset.cpp.o  -o subset -rdynamic 

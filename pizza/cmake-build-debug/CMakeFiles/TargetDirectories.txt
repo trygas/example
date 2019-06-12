@@ -1,0 +1,4 @@
+/home/liu/my_progs/example/pizza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/pizza/cmake-build-debug/CMakeFiles/tree.dir
+/home/liu/my_progs/example/pizza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_progs/example/pizza/cmake-build-debug/CMakeFiles/pizza.dir

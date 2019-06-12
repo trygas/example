@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/eat_food.dir/eat_food/eat_food.cpp.o  -o eat_food -rdynamic 

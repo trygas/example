@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bull.dir/main.cpp.o  -o bull 

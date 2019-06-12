@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/many_cpu.dir/many_cpu/many_cpu.cpp.o  -o many_cpu -rdynamic 

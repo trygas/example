@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/search_word.dir/search_word/search_word.cpp.o  -o search_word -rdynamic 

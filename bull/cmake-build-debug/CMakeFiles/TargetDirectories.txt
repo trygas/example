@@ -1,0 +1,4 @@
+/home/liu/my_progs/example/bull/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_progs/example/bull/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/bull/cmake-build-debug/CMakeFiles/duoxiangshi.dir
+/home/liu/my_progs/example/bull/cmake-build-debug/CMakeFiles/bull.dir

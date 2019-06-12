@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/find_string.dir/find_string/find_string.cpp.o  -o find_string -rdynamic 

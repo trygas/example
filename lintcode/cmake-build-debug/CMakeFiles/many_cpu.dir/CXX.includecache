@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//general.h
+iostream
+-
+ostream
+-
+istream
+-
+vector
+-
+queue
+-
+deque
+-
+map
+-
+set
+-
+string
+-
+cstring
+-
+stdlib.h
+-
+fstream
+-
+algorithm
+-
+
+/home/liu/my_progs/lintcode/many_cpu/many_cpu.cpp
+general.h
+/home/liu/my_progs/lintcode/many_cpu/general.h
+

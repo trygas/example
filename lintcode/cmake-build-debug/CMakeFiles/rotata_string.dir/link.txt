@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rotata_string.dir/rotata_string/rotate_string.cpp.o  -o rotata_string -rdynamic 

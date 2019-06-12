@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/litte_friend.dir/litte_friend/little_friend.cpp.o  -o litte_friend -rdynamic 

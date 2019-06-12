@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././general.h
+iostream
+-
+vector
+-
+queue
+-
+deque
+-
+map
+-
+set
+-
+string
+-
+stdlib.h
+-
+
+/home/liu/my_progs/lintcode/maximum_subdirectory/maximum_subdirectory.cpp
+general.h
+/home/liu/my_progs/lintcode/maximum_subdirectory/general.h
+
