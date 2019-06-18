@@ -1,4 +1,5 @@
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/random_number.dir

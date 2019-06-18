@@ -4,6 +4,7 @@ project(some_project)
 set(CMAKE_CXX_STANDARD 11)
 
 find_package(OpenCV)
+find_package(Eigen3)
 
 include_directories(
         hbst
@@ -11,6 +12,7 @@ include_directories(
         ${PROJECT_SOURCE_DIR}/rb_tree
         ${PROJECT_SOURCE_DIR}/parse_file
         ${OpenCV_DIRS}
+        ${Eigen3_DIRS}
 )
 
 add_executable(bit_operation bit_operation/bit_operation.cpp)
@@ -33,3 +35,6 @@ target_link_libraries(bilinear_interpolation ${OpenCV_LIBS})
 
 add_executable(five_fundamental five_fundamental/five_fundamental.cpp)
 target_link_libraries(five_fundamental ${OpenCV_LIBS})
+
+add_executable(rotation_transportion rotation_transportion/rotation_transportion.cpp)
+target_link_libraries(rotation_transportion ${OpenCV_LIBS} ${Eigen3_LIBS})
