@@ -123,6 +123,19 @@ example2_1/fast:
 	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/build
 .PHONY : example2_1/fast
 
+#=============================================================================
+# Target rules for targets named example2_2
+
+# Build rule for target.
+example2_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 example2_2
+.PHONY : example2_2
+
+# fast build rule for target.
+example2_2/fast:
+	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/build
+.PHONY : example2_2/fast
+
 example2_1.o: example2_1.cpp.o
 
 .PHONY : example2_1.o
@@ -150,6 +163,33 @@ example2_1.cpp.s:
 	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/example2_1.cpp.s
 .PHONY : example2_1.cpp.s
 
+example2_2.o: example2_2.cpp.o
+
+.PHONY : example2_2.o
+
+# target to build an object file
+example2_2.cpp.o:
+	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/example2_2.cpp.o
+.PHONY : example2_2.cpp.o
+
+example2_2.i: example2_2.cpp.i
+
+.PHONY : example2_2.i
+
+# target to preprocess a source file
+example2_2.cpp.i:
+	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/example2_2.cpp.i
+.PHONY : example2_2.cpp.i
+
+example2_2.s: example2_2.cpp.s
+
+.PHONY : example2_2.s
+
+# target to generate assembly for a file
+example2_2.cpp.s:
+	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/example2_2.cpp.s
+.PHONY : example2_2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -157,11 +197,15 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... example2_1"
 	@echo "... edit_cache"
+	@echo "... example2_1"
+	@echo "... example2_2"
 	@echo "... example2_1.o"
 	@echo "... example2_1.i"
 	@echo "... example2_1.s"
+	@echo "... example2_2.o"
+	@echo "... example2_2.i"
+	@echo "... example2_2.s"
 .PHONY : help
 
 

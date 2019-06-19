@@ -16,6 +16,7 @@ public:
     int num;
 };
 
+// 若线程在还没join的时候就被析构,这个类就是保证在析构的时候先调用这个线程的函数.
 class thread_guard
 {
 public:

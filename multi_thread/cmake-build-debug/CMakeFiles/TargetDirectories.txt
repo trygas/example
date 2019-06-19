@@ -1,3 +1,4 @@
 /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_1.dir
 /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_1.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_2.dir
