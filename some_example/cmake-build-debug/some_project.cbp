@@ -5,7 +5,7 @@
       <Option title="some_project" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
@@ -22,6 +22,62 @@
          <Option type="4" />
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rotation_transportion">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/rotation_transportion" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 rotation_transportion" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rotation_transportion/fast">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/rotation_transportion" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 rotation_transportion/fast" />
             <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
             <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
             <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
@@ -793,6 +849,9 @@
       <Unit filename="/home/liu/my_progs/example/some_example/random_number/random_number.cpp">
          <Option target="random_number"/>
       </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/rotation_transportion/rotation_transportion.cpp">
+         <Option target="rotation_transportion"/>
+      </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/share_ptr/share_ptr.cpp">
          <Option target="share_ptr"/>
       </Unit>
@@ -822,6 +881,15 @@
       </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/eigen3/cmake/Eigen3ConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\" />
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/eigen3/cmake/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\" />
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/eigen3/cmake/Eigen3Targets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\" />
       </Unit>
    </Project>
 </CodeBlocks_project_file>
