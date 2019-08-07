@@ -1,0 +1,4 @@
+/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/CMakeFiles/ndk_example.dir
+/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/CMakeFiles/ndk.dir

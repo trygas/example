@@ -1,4 +1,6 @@
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/exif.dir
+/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/json_example.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir
@@ -8,6 +10,7 @@
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/std_function.dir
+/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/Read_EXIF.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/thread.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir
 /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles/bit_operation.dir

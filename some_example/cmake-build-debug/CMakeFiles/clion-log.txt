@@ -1,4 +1,6 @@
 /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/liu/my_progs/example/some_example
+-- Can't found GSLAM module core
+-- Looking for GSLAM-1.1.1 or greater  - found 2.4.5
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/liu/my_progs/example/some_example/cmake-build-debug

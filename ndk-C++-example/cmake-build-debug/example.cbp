@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="example" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ndk_example">
+         <Option output="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/ndk_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk_example" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ndk_example/fast">
+         <Option output="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/ndk_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk_example/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ndk">
+         <Option output="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/libndk.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="ndk/fast">
+         <Option output="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/libndk.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 ndk/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/liu/my_progs/example/ndk-C++-example/cout.cpp">
+         <Option target="ndk"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/ndk-C++-example/cout.h">
+         <Option target="ndk"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/ndk-C++-example/main.cpp">
+         <Option target="ndk_example"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/ndk-C++-example/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

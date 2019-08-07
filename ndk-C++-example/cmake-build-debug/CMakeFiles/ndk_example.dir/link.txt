@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ndk_example.dir/main.cpp.o  -o ndk_example libndk.so -Wl,-rpath,/home/liu/my_progs/example/ndk-C++-example/cmake-build-debug 

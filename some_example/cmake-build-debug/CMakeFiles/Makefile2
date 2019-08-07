@@ -60,13 +60,87 @@ CMAKE_SOURCE_DIR = /home/liu/my_progs/example/some_example
 CMAKE_BINARY_DIR = /home/liu/my_progs/example/some_example/cmake-build-debug
 
 #=============================================================================
+# Target rules for target CMakeFiles/exif.dir
+
+# All Build rule for target.
+CMakeFiles/exif.dir/all:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/depend
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target exif"
+.PHONY : CMakeFiles/exif.dir/all
+
+# Include target in all.
+all: CMakeFiles/exif.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exif.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/exif.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/exif.dir/rule
+
+# Convenience name for target.
+exif: CMakeFiles/exif.dir/rule
+
+.PHONY : exif
+
+# clean rule for target.
+CMakeFiles/exif.dir/clean:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/clean
+.PHONY : CMakeFiles/exif.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/exif.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/json_example.dir
+
+# All Build rule for target.
+CMakeFiles/json_example.dir/all:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/depend
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target json_example"
+.PHONY : CMakeFiles/json_example.dir/all
+
+# Include target in all.
+all: CMakeFiles/json_example.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/json_example.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/json_example.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/json_example.dir/rule
+
+# Convenience name for target.
+json_example: CMakeFiles/json_example.dir/rule
+
+.PHONY : json_example
+
+# clean rule for target.
+CMakeFiles/json_example.dir/clean:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/clean
+.PHONY : CMakeFiles/json_example.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/json_example.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/rotation_transportion.dir
 
 # All Build rule for target.
 CMakeFiles/rotation_transportion.dir/all:
 	$(MAKE) -f CMakeFiles/rotation_transportion.dir/build.make CMakeFiles/rotation_transportion.dir/depend
 	$(MAKE) -f CMakeFiles/rotation_transportion.dir/build.make CMakeFiles/rotation_transportion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target rotation_transportion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target rotation_transportion"
 .PHONY : CMakeFiles/rotation_transportion.dir/all
 
 # Include target in all.
@@ -103,7 +177,7 @@ clean: CMakeFiles/rotation_transportion.dir/clean
 CMakeFiles/five_fundamental.dir/all:
 	$(MAKE) -f CMakeFiles/five_fundamental.dir/build.make CMakeFiles/five_fundamental.dir/depend
 	$(MAKE) -f CMakeFiles/five_fundamental.dir/build.make CMakeFiles/five_fundamental.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target five_fundamental"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target five_fundamental"
 .PHONY : CMakeFiles/five_fundamental.dir/all
 
 # Include target in all.
@@ -140,7 +214,7 @@ clean: CMakeFiles/five_fundamental.dir/clean
 CMakeFiles/bilinear_interpolation.dir/all:
 	$(MAKE) -f CMakeFiles/bilinear_interpolation.dir/build.make CMakeFiles/bilinear_interpolation.dir/depend
 	$(MAKE) -f CMakeFiles/bilinear_interpolation.dir/build.make CMakeFiles/bilinear_interpolation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target bilinear_interpolation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target bilinear_interpolation"
 .PHONY : CMakeFiles/bilinear_interpolation.dir/all
 
 # Include target in all.
@@ -177,7 +251,7 @@ clean: CMakeFiles/bilinear_interpolation.dir/clean
 CMakeFiles/random_number.dir/all:
 	$(MAKE) -f CMakeFiles/random_number.dir/build.make CMakeFiles/random_number.dir/depend
 	$(MAKE) -f CMakeFiles/random_number.dir/build.make CMakeFiles/random_number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target random_number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target random_number"
 .PHONY : CMakeFiles/random_number.dir/all
 
 # Include target in all.
@@ -214,7 +288,7 @@ clean: CMakeFiles/random_number.dir/clean
 CMakeFiles/raii.dir/all:
 	$(MAKE) -f CMakeFiles/raii.dir/build.make CMakeFiles/raii.dir/depend
 	$(MAKE) -f CMakeFiles/raii.dir/build.make CMakeFiles/raii.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target raii"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target raii"
 .PHONY : CMakeFiles/raii.dir/all
 
 # Include target in all.
@@ -251,7 +325,7 @@ clean: CMakeFiles/raii.dir/clean
 CMakeFiles/xx_cast.dir/all:
 	$(MAKE) -f CMakeFiles/xx_cast.dir/build.make CMakeFiles/xx_cast.dir/depend
 	$(MAKE) -f CMakeFiles/xx_cast.dir/build.make CMakeFiles/xx_cast.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target xx_cast"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target xx_cast"
 .PHONY : CMakeFiles/xx_cast.dir/all
 
 # Include target in all.
@@ -288,7 +362,7 @@ clean: CMakeFiles/xx_cast.dir/clean
 CMakeFiles/sse_sse2.dir/all:
 	$(MAKE) -f CMakeFiles/sse_sse2.dir/build.make CMakeFiles/sse_sse2.dir/depend
 	$(MAKE) -f CMakeFiles/sse_sse2.dir/build.make CMakeFiles/sse_sse2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target sse_sse2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target sse_sse2"
 .PHONY : CMakeFiles/sse_sse2.dir/all
 
 # Include target in all.
@@ -325,7 +399,7 @@ clean: CMakeFiles/sse_sse2.dir/clean
 CMakeFiles/std_function.dir/all:
 	$(MAKE) -f CMakeFiles/std_function.dir/build.make CMakeFiles/std_function.dir/depend
 	$(MAKE) -f CMakeFiles/std_function.dir/build.make CMakeFiles/std_function.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target std_function"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target std_function"
 .PHONY : CMakeFiles/std_function.dir/all
 
 # Include target in all.
@@ -356,13 +430,50 @@ clean: CMakeFiles/std_function.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/Read_EXIF.dir
+
+# All Build rule for target.
+CMakeFiles/Read_EXIF.dir/all: CMakeFiles/exif.dir/all
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/depend
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Read_EXIF"
+.PHONY : CMakeFiles/Read_EXIF.dir/all
+
+# Include target in all.
+all: CMakeFiles/Read_EXIF.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Read_EXIF.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 4
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Read_EXIF.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Read_EXIF.dir/rule
+
+# Convenience name for target.
+Read_EXIF: CMakeFiles/Read_EXIF.dir/rule
+
+.PHONY : Read_EXIF
+
+# clean rule for target.
+CMakeFiles/Read_EXIF.dir/clean:
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/clean
+.PHONY : CMakeFiles/Read_EXIF.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Read_EXIF.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/thread.dir
 
 # All Build rule for target.
 CMakeFiles/thread.dir/all:
 	$(MAKE) -f CMakeFiles/thread.dir/build.make CMakeFiles/thread.dir/depend
 	$(MAKE) -f CMakeFiles/thread.dir/build.make CMakeFiles/thread.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target thread"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target thread"
 .PHONY : CMakeFiles/thread.dir/all
 
 # Include target in all.
@@ -399,7 +510,7 @@ clean: CMakeFiles/thread.dir/clean
 CMakeFiles/nocopyable_class.dir/all:
 	$(MAKE) -f CMakeFiles/nocopyable_class.dir/build.make CMakeFiles/nocopyable_class.dir/depend
 	$(MAKE) -f CMakeFiles/nocopyable_class.dir/build.make CMakeFiles/nocopyable_class.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target nocopyable_class"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target nocopyable_class"
 .PHONY : CMakeFiles/nocopyable_class.dir/all
 
 # Include target in all.
@@ -436,7 +547,7 @@ clean: CMakeFiles/nocopyable_class.dir/clean
 CMakeFiles/bit_operation.dir/all:
 	$(MAKE) -f CMakeFiles/bit_operation.dir/build.make CMakeFiles/bit_operation.dir/depend
 	$(MAKE) -f CMakeFiles/bit_operation.dir/build.make CMakeFiles/bit_operation.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target bit_operation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target bit_operation"
 .PHONY : CMakeFiles/bit_operation.dir/all
 
 # Include target in all.
@@ -473,7 +584,7 @@ clean: CMakeFiles/bit_operation.dir/clean
 CMakeFiles/function_bind.dir/all:
 	$(MAKE) -f CMakeFiles/function_bind.dir/build.make CMakeFiles/function_bind.dir/depend
 	$(MAKE) -f CMakeFiles/function_bind.dir/build.make CMakeFiles/function_bind.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target function_bind"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target function_bind"
 .PHONY : CMakeFiles/function_bind.dir/all
 
 # Include target in all.
@@ -510,7 +621,7 @@ clean: CMakeFiles/function_bind.dir/clean
 CMakeFiles/parse_file.dir/all:
 	$(MAKE) -f CMakeFiles/parse_file.dir/build.make CMakeFiles/parse_file.dir/depend
 	$(MAKE) -f CMakeFiles/parse_file.dir/build.make CMakeFiles/parse_file.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target parse_file"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target parse_file"
 .PHONY : CMakeFiles/parse_file.dir/all
 
 # Include target in all.
@@ -547,7 +658,7 @@ clean: CMakeFiles/parse_file.dir/clean
 CMakeFiles/share_ptr.dir/all:
 	$(MAKE) -f CMakeFiles/share_ptr.dir/build.make CMakeFiles/share_ptr.dir/depend
 	$(MAKE) -f CMakeFiles/share_ptr.dir/build.make CMakeFiles/share_ptr.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target share_ptr"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_progs/example/some_example/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target share_ptr"
 .PHONY : CMakeFiles/share_ptr.dir/all
 
 # Include target in all.

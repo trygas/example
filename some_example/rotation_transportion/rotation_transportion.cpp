@@ -9,10 +9,13 @@ using namespace std;
 
 int main ( int argc, char** argv )
 {
+//    Eigen::Quaterniond fourNum(0.5, -0.5, 0.5, -0.5);
     Eigen::Matrix3d q = Eigen::Matrix3d::Identity();
-    Eigen::AngleAxisd v(M_PI/4,Eigen::Vector3d(0,0,1));//沿z轴旋转了45度
+//    Eigen::Matrix3d fourNumMat =z43z3 Eigen::Matrix3d(fourNum);
     auto out=Eigen::AngleAxisd(q);
+    cout << q << endl << endl;
     cout << out.axis() << endl << endl;
-    cout << v.axis() << endl << endl;
+//    auto fourNumMat = Eigen::AngleAxisd(fourNum);
+//        cout << fourNumMat.axis() << endl << endl;
     return 0;
 }

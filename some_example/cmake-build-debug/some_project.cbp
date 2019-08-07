@@ -5,7 +5,7 @@
       <Option title="some_project" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\usr\local\share\OpenCV_backup\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
@@ -27,6 +27,126 @@
             <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="exif">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/libexif.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 exif" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="exif/fast">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/libexif.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 exif/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="json_example">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/json_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 json_example" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="json_example/fast">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/json_example" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 json_example/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="rotation_transportion">
          <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/rotation_transportion" prefix_auto="0" extension_auto="0" />
          <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
@@ -35,6 +155,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -63,6 +185,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -91,6 +215,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -119,6 +245,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -147,6 +275,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -175,6 +305,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -203,6 +335,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -231,6 +365,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -259,6 +395,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -287,6 +425,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -315,6 +455,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -343,6 +485,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -371,6 +515,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -399,6 +545,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -437,6 +585,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -465,6 +615,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -485,6 +637,66 @@
             <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="Read_EXIF">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/Read_EXIF" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 Read_EXIF" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="Read_EXIF/fast">
+         <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/Read_EXIF" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
+            <Add directory="/home/liu/my_progs/example/some_example/hbst" />
+            <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
+            <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 Read_EXIF/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/liu/my_progs/example/some_example/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="thread">
          <Option output="/home/liu/my_progs/example/some_example/cmake-build-debug/thread" prefix_auto="0" extension_auto="0" />
          <Option working_dir="/home/liu/my_progs/example/some_example/cmake-build-debug" />
@@ -493,6 +705,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -521,6 +735,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -549,6 +765,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -577,6 +795,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -605,6 +825,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -633,6 +855,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -661,6 +885,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -689,6 +915,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -717,6 +945,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -745,6 +975,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -773,6 +1005,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -801,6 +1035,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add directory="/home/liu/my_progs/example/some_example" />
+            <Add directory="/home/liu/my_progs/example/some_example/." />
+            <Add directory="/home/liu/my_progs/example/some_example/Read_EXIF" />
             <Add directory="/home/liu/my_progs/example/some_example/hbst" />
             <Add directory="/home/liu/my_progs/example/some_example/parse_file" />
             <Add directory="/home/liu/my_progs/example/some_example/rb_tree" />
@@ -825,6 +1061,15 @@
       <Unit filename="/home/liu/my_progs/example/some_example/RAII/raii.cpp">
          <Option target="raii"/>
       </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/Read_EXIF/Read_EXIF.cpp">
+         <Option target="Read_EXIF"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/Read_EXIF/TinyEXIF.cpp">
+         <Option target="exif"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/Read_EXIF/TinyEXIF.h">
+         <Option target="exif"/>
+      </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/bilinear_interpolation/bilinear_interpolation.cpp">
          <Option target="bilinear_interpolation"/>
       </Unit>
@@ -836,6 +1081,9 @@
       </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/function_bind/function_bind.cpp">
          <Option target="function_bind"/>
+      </Unit>
+      <Unit filename="/home/liu/my_progs/example/some_example/json_example/json_example.cpp">
+         <Option target="json_example"/>
       </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/nocopyable_class/nocopeable_class.cpp">
          <Option target="nocopyable_class"/>
@@ -870,17 +1118,17 @@
       <Unit filename="/home/liu/my_progs/example/some_example/CMakeLists.txt">
           <Option virtualFolder="CMake Files\" />
       </Unit>
-      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV_backup/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV_backup\" />
       </Unit>
-      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV_backup/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV_backup\" />
       </Unit>
-      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV_backup/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV_backup\" />
       </Unit>
-      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV\" />
+      <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/OpenCV_backup/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\OpenCV_backup\" />
       </Unit>
       <Unit filename="/home/liu/my_progs/example/some_example/../../../../../usr/local/share/eigen3/cmake/Eigen3ConfigVersion.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\share\eigen3\cmake\" />

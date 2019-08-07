@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libndk.so -o libndk.so CMakeFiles/ndk.dir/cout.cpp.o 

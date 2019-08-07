@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named exif
+
+# Build rule for target.
+exif: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 exif
+.PHONY : exif
+
+# fast build rule for target.
+exif/fast:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/build
+.PHONY : exif/fast
+
+#=============================================================================
+# Target rules for targets named json_example
+
+# Build rule for target.
+json_example: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 json_example
+.PHONY : json_example
+
+# fast build rule for target.
+json_example/fast:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/build
+.PHONY : json_example/fast
+
+#=============================================================================
 # Target rules for targets named rotation_transportion
 
 # Build rule for target.
@@ -213,6 +239,19 @@ std_function: cmake_check_build_system
 std_function/fast:
 	$(MAKE) -f CMakeFiles/std_function.dir/build.make CMakeFiles/std_function.dir/build
 .PHONY : std_function/fast
+
+#=============================================================================
+# Target rules for targets named Read_EXIF
+
+# Build rule for target.
+Read_EXIF: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Read_EXIF
+.PHONY : Read_EXIF
+
+# fast build rule for target.
+Read_EXIF/fast:
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/build
+.PHONY : Read_EXIF/fast
 
 #=============================================================================
 # Target rules for targets named thread
@@ -318,6 +357,60 @@ RAII/raii.s: RAII/raii.cpp.s
 RAII/raii.cpp.s:
 	$(MAKE) -f CMakeFiles/raii.dir/build.make CMakeFiles/raii.dir/RAII/raii.cpp.s
 .PHONY : RAII/raii.cpp.s
+
+Read_EXIF/Read_EXIF.o: Read_EXIF/Read_EXIF.cpp.o
+
+.PHONY : Read_EXIF/Read_EXIF.o
+
+# target to build an object file
+Read_EXIF/Read_EXIF.cpp.o:
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/Read_EXIF/Read_EXIF.cpp.o
+.PHONY : Read_EXIF/Read_EXIF.cpp.o
+
+Read_EXIF/Read_EXIF.i: Read_EXIF/Read_EXIF.cpp.i
+
+.PHONY : Read_EXIF/Read_EXIF.i
+
+# target to preprocess a source file
+Read_EXIF/Read_EXIF.cpp.i:
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/Read_EXIF/Read_EXIF.cpp.i
+.PHONY : Read_EXIF/Read_EXIF.cpp.i
+
+Read_EXIF/Read_EXIF.s: Read_EXIF/Read_EXIF.cpp.s
+
+.PHONY : Read_EXIF/Read_EXIF.s
+
+# target to generate assembly for a file
+Read_EXIF/Read_EXIF.cpp.s:
+	$(MAKE) -f CMakeFiles/Read_EXIF.dir/build.make CMakeFiles/Read_EXIF.dir/Read_EXIF/Read_EXIF.cpp.s
+.PHONY : Read_EXIF/Read_EXIF.cpp.s
+
+Read_EXIF/TinyEXIF.o: Read_EXIF/TinyEXIF.cpp.o
+
+.PHONY : Read_EXIF/TinyEXIF.o
+
+# target to build an object file
+Read_EXIF/TinyEXIF.cpp.o:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/Read_EXIF/TinyEXIF.cpp.o
+.PHONY : Read_EXIF/TinyEXIF.cpp.o
+
+Read_EXIF/TinyEXIF.i: Read_EXIF/TinyEXIF.cpp.i
+
+.PHONY : Read_EXIF/TinyEXIF.i
+
+# target to preprocess a source file
+Read_EXIF/TinyEXIF.cpp.i:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/Read_EXIF/TinyEXIF.cpp.i
+.PHONY : Read_EXIF/TinyEXIF.cpp.i
+
+Read_EXIF/TinyEXIF.s: Read_EXIF/TinyEXIF.cpp.s
+
+.PHONY : Read_EXIF/TinyEXIF.s
+
+# target to generate assembly for a file
+Read_EXIF/TinyEXIF.cpp.s:
+	$(MAKE) -f CMakeFiles/exif.dir/build.make CMakeFiles/exif.dir/Read_EXIF/TinyEXIF.cpp.s
+.PHONY : Read_EXIF/TinyEXIF.cpp.s
 
 bilinear_interpolation/bilinear_interpolation.o: bilinear_interpolation/bilinear_interpolation.cpp.o
 
@@ -426,6 +519,33 @@ function_bind/function_bind.s: function_bind/function_bind.cpp.s
 function_bind/function_bind.cpp.s:
 	$(MAKE) -f CMakeFiles/function_bind.dir/build.make CMakeFiles/function_bind.dir/function_bind/function_bind.cpp.s
 .PHONY : function_bind/function_bind.cpp.s
+
+json_example/json_example.o: json_example/json_example.cpp.o
+
+.PHONY : json_example/json_example.o
+
+# target to build an object file
+json_example/json_example.cpp.o:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/json_example/json_example.cpp.o
+.PHONY : json_example/json_example.cpp.o
+
+json_example/json_example.i: json_example/json_example.cpp.i
+
+.PHONY : json_example/json_example.i
+
+# target to preprocess a source file
+json_example/json_example.cpp.i:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/json_example/json_example.cpp.i
+.PHONY : json_example/json_example.cpp.i
+
+json_example/json_example.s: json_example/json_example.cpp.s
+
+.PHONY : json_example/json_example.s
+
+# target to generate assembly for a file
+json_example/json_example.cpp.s:
+	$(MAKE) -f CMakeFiles/json_example.dir/build.make CMakeFiles/json_example.dir/json_example/json_example.cpp.s
+.PHONY : json_example/json_example.cpp.s
 
 nocopyable_class/nocopeable_class.o: nocopyable_class/nocopeable_class.cpp.o
 
@@ -677,6 +797,8 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... edit_cache"
+	@echo "... exif"
+	@echo "... json_example"
 	@echo "... rotation_transportion"
 	@echo "... five_fundamental"
 	@echo "... bilinear_interpolation"
@@ -686,6 +808,7 @@ help:
 	@echo "... sse_sse2"
 	@echo "... rebuild_cache"
 	@echo "... std_function"
+	@echo "... Read_EXIF"
 	@echo "... thread"
 	@echo "... nocopyable_class"
 	@echo "... bit_operation"
@@ -695,6 +818,12 @@ help:
 	@echo "... RAII/raii.o"
 	@echo "... RAII/raii.i"
 	@echo "... RAII/raii.s"
+	@echo "... Read_EXIF/Read_EXIF.o"
+	@echo "... Read_EXIF/Read_EXIF.i"
+	@echo "... Read_EXIF/Read_EXIF.s"
+	@echo "... Read_EXIF/TinyEXIF.o"
+	@echo "... Read_EXIF/TinyEXIF.i"
+	@echo "... Read_EXIF/TinyEXIF.s"
 	@echo "... bilinear_interpolation/bilinear_interpolation.o"
 	@echo "... bilinear_interpolation/bilinear_interpolation.i"
 	@echo "... bilinear_interpolation/bilinear_interpolation.s"
@@ -707,6 +836,9 @@ help:
 	@echo "... function_bind/function_bind.o"
 	@echo "... function_bind/function_bind.i"
 	@echo "... function_bind/function_bind.s"
+	@echo "... json_example/json_example.o"
+	@echo "... json_example/json_example.i"
+	@echo "... json_example/json_example.s"
 	@echo "... nocopyable_class/nocopeable_class.o"
 	@echo "... nocopyable_class/nocopeable_class.i"
 	@echo "... nocopyable_class/nocopeable_class.s"

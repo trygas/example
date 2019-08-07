@@ -12,7 +12,9 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/include/opencv"
   "/usr/local/include"
+  "../."
   "../hbst"
+  "../Read_EXIF"
   "../"
   "../rb_tree"
   "../parse_file"
