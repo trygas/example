@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/975.dir/dongtaiguihua/975.cpp.o  -o 975 

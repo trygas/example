@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/xx_cast.dir/xx_cast/xx_cast.cpp.o  -o xx_cast 

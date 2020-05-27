@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1279.dir/huisu/1279.cpp.o  -o 1279 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1026.dir/dongtaiguihua/1026.cpp.o  -o 1026 

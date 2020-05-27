@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1601.dir/TwoPointer/1601.cpp.o  -o 1601 

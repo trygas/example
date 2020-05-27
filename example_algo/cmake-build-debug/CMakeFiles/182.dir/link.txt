@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/182.dir/tanxin/182.cpp.o  -o 182 

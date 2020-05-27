@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/5.dir/paixu/5/5.cpp.o  -o 5 

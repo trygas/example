@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1004.dir/dongtaiguihua/1004.cpp.o  -o 1004 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1208.dir/dongtaiguihua/1208.cpp.o  -o 1208 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/363.dir/TwoPointer/363.cpp.o  -o 363 

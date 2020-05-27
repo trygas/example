@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1492.dir/erfen/1492.cpp.o  -o 1492 

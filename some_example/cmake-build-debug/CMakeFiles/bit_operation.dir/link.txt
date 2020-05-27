@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/bit_operation.dir/bit_operation/bit_operation.cpp.o  -o bit_operation 

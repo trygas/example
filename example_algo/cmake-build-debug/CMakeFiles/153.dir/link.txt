@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/153.dir/DFS/153.cpp.o  -o 153 

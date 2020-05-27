@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/191.dir/dongtaiguihua/191.cpp.o  -o 191 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/617.dir/erfen/617.cpp.o  -o 617 

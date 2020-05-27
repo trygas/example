@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/152.dir/huisu/152.cpp.o  -o 152 

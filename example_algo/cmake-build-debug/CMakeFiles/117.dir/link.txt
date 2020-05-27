@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/117.dir/tanxin/117.cpp.o  -o 117 

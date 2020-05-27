@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1111.dir/dongtaiguihua/1111.cpp.o  -o 1111 

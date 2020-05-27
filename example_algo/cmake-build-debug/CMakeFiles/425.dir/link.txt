@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/425.dir/huisu/425.cpp.o  -o 425 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/406.dir/TwoPointer/406.cpp.o  -o 406 

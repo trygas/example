@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1217.dir/erjinzhi/1217.cpp.o  -o 1217 

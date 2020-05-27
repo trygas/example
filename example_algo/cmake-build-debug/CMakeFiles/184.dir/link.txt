@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/184.dir/paixu/184/184.cpp.o  -o 184 

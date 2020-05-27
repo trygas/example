@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1711.dir/dongtaiguihua/1711.cpp.o  -o 1711 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/729.dir/math/729.cpp.o  -o 729 

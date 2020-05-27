@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/194.dir/erfen/194.cpp.o  -o 194 

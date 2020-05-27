@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/945.dir/tanxin/945.cpp.o  -o 945 

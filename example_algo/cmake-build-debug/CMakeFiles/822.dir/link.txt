@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/822.dir/digui/822.cpp.o  -o 822 

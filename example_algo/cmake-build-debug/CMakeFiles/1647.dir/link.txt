@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1647.dir/DFS/1647.cpp.o  -o 1647 

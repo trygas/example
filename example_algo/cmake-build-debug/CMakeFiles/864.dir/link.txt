@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/864.dir/dongtaiguihua/864.cpp.o  -o 864 

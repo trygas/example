@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1298.dir/BFS/1298.cpp.o  -o 1298 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/790.dir/DFS/790.cpp.o  -o 790 

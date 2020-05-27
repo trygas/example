@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1246.dir/TwoPointer/1246.cpp.o  -o 1246 

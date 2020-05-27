@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1372.dir/zifuchuan/1372.cpp.o  -o 1372 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1045.dir/TwoPointer/1045.cpp.o  -o 1045 

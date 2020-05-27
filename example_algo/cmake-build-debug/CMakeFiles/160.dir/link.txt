@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/160.dir/erfen/160.cpp.o  -o 160 

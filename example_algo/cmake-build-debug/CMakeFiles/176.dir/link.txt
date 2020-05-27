@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/176.dir/BFS/176.cpp.o  -o 176 

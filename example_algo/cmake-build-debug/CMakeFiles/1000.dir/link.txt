@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1000.dir/dongtaiguihua/1000.cpp.o  -o 1000 

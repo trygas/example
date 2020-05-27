@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/639.dir/paixu/912/912.cpp.o  -o 639 

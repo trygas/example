@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/787.dir/BFS/787.cpp.o  -o 787 

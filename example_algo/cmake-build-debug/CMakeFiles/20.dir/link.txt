@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/20.dir/dongtaiguihua/20.cpp.o  -o 20 

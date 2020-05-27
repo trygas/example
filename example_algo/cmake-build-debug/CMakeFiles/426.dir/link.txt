@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/426.dir/huisu/426.cpp.o  -o 426 

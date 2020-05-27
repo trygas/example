@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/412.dir/tanxin/412.cpp.o  -o 412 

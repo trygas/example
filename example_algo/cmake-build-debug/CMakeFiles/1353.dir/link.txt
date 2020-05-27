@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1353.dir/DFS/1353.cpp.o  -o 1353 

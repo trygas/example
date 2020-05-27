@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/650.dir/DFS/650.cpp.o  -o 650 

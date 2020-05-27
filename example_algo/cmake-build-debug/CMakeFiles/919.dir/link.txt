@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/919.dir/paixu/919/919.cpp.o  -o 919 

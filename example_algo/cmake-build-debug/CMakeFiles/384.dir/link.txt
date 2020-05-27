@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/384.dir/TwoPointer/384.cpp.o  -o 384 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/508.dir/paixu/508/508.cpp.o  -o 508 

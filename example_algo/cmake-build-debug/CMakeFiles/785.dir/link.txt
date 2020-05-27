@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/785.dir/dongtaiguihua/785.cpp.o  -o 785 

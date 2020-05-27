@@ -1,0 +1,20 @@
+{
+    "camera": [
+        5472,
+        3078,
+        0.7,
+        0.7,
+        0.5,
+        0.5
+    ],
+    "height": 160,
+    "images": [
+        "images/DJI_0301.JPG",
+        "images/DJI_0302.JPG",
+        "images/DJI_0303.JPG",
+        "images/DJI_0304.JPG",
+        "images/DJI_0305.JPG",
+        "images/DJI_0306.JPG",
+        "images/DJI_0307.JPG"
+    ]
+}

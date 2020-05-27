@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/791.dir/tanxin/791.cpp.o  -o 791 

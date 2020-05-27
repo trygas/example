@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/my_progs/example/ndk-C++-example/cout.cpp
+cout.h
+/home/liu/my_progs/example/ndk-C++-example/cout.h
+
+/home/liu/my_progs/example/ndk-C++-example/cout.h
+vector
+-
+iostream
+/home/liu/my_progs/example/ndk-C++-example/iostream
+string
+/home/liu/my_progs/example/ndk-C++-example/string
+

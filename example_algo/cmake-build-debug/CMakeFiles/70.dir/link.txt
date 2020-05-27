@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/70.dir/BFS/70.cpp.o  -o 70 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1029.dir/BFS/1029.cpp.o  -o 1029 

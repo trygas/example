@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/43.dir/dongtaiguihua/43.cpp.o  -o 43 

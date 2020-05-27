@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/622.dir/dongtaiguihua/622.cpp.o  -o 622 

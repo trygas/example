@@ -5,9 +5,12 @@ set(CMAKE_CXX_STANDARD 11)
 
 find_package(OpenCV)
 find_package(Eigen3)
+find_package(GSLAM)
 
 include_directories(
+        .
         hbst
+        Read_EXIF
         ${PROJECT_SOURCE_DIR}
         ${PROJECT_SOURCE_DIR}/rb_tree
         ${PROJECT_SOURCE_DIR}/parse_file
@@ -39,5 +42,13 @@ target_link_libraries(five_fundamental ${OpenCV_LIBS})
 add_executable(rotation_transportion rotation_transportion/rotation_transportion.cpp)
 target_link_libraries(rotation_transportion ${OpenCV_LIBS} ${Eigen3_LIBS})
 
+<<<<<<< HEAD
 add_executable(game_king game_king/game_king.cpp)
 add_executable(find_string find_string/find_string.cpp)
+=======
+add_executable(json_example json_example/json_example.cpp)
+
+add_executable(Read_EXIF Read_EXIF/Read_EXIF.cpp)
+add_library(exif SHARED Read_EXIF/TinyEXIF.cpp)
+target_link_libraries(Read_EXIF exif)
+>>>>>>> 000df2967160e72f219ff2bd976e1763f16614f0

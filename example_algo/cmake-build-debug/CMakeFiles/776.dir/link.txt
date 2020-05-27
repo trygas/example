@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/776.dir/math/776.cpp.o  -o 776 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1304.dir/erjinzhi/1304.cpp.o  -o 1304 

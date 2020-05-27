@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1303.dir/erfen/1303.cpp.o  -o 1303 

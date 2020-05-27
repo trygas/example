@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/31.dir/paixu/31/31.cpp.o  -o 31 

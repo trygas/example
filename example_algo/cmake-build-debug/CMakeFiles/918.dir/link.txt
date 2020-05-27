@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/918.dir/TwoPointer/918.cpp.o  -o 918 

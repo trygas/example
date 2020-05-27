@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/428.dir/erfen/428.cpp.o  -o 428 

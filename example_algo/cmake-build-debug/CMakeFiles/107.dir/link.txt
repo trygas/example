@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/107.dir/dongtaiguihua/107.cpp.o  -o 107 

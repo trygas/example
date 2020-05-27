@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/782.dir/erjinzhi/782.cpp.o  -o 782 

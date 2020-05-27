@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/760.dir/DFS/760.cpp.o  -o 760 

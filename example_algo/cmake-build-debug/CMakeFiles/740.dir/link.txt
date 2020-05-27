@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/740.dir/dongtaiguihua/740.cpp.o  -o 740 
