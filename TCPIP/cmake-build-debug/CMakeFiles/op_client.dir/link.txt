@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/op_client.dir/op_client.cpp.o  -o op_client 

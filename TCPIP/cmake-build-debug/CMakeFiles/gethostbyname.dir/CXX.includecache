@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/my_prog/example/TCPIP/general.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+netdb.h
+-
+iostream
+-
+
+/home/liu/my_prog/example/TCPIP/gethostbyname.cpp
+general.h
+/home/liu/my_prog/example/TCPIP/general.h
+

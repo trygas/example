@@ -1,0 +1,7 @@
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/uecho_server.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/uecho_con_client.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/op_client.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/op_server.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liu/my_prog/example/TCPIP/cmake-build-debug/CMakeFiles/gethostbyname.dir

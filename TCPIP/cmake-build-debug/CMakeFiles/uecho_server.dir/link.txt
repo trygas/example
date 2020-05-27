@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/uecho_server.dir/uecho_server.cpp.o  -o uecho_server 

@@ -85,6 +85,7 @@ add_executable(Read_EXIF Read_EXIF/Read_EXIF.cpp)
 add_library(exif SHARED Read_EXIF/TinyEXIF.cpp)
 target_link_libraries(Read_EXIF exif)
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 add_executable(GSLAM_Sub_Pub GSLAM_Sub_Pub/GSLAM_Sub_Pub.cpp)
@@ -100,6 +101,9 @@ add_executable(youzhiyingyong youzhiyingyong/youzhiyingyong.cpp)
 target_link_libraries(sift ${OpenCV_LIBS})
 
 
+=======
+>>>>>>> 000df2967160e72f219ff2bd976e1763f16614f0
+>>>>>>> d9246b7b993b6f430d1bc64bec49ebdadc41b88b
 =======
 >>>>>>> 000df2967160e72f219ff2bd976e1763f16614f0
 >>>>>>> d9246b7b993b6f430d1bc64bec49ebdadc41b88b
