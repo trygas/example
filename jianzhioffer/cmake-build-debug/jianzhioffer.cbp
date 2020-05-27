@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="jianzhioffer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="57_01">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/57_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 57_01"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="57_01/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/57_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 57_01/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="59_02">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/59_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 59_02"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="59_02/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/59_02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 59_02/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="52">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 52"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="52/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 52/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="41">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/41" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 41"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="41/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/41" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 41/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="34">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/34" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 34"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="34/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/34" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 34/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="36">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/36" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 36"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="36/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/36" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 36/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 33"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="33/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 33/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/30" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 30"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="30/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/30" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 30/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="26">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 26"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="26/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 26/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_2">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_2/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/3_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="27">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 27"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="27/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 27/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="18_01">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/18_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 18_01"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="18_01/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/18_01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 18_01/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="28">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 28"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="28/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 28/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="23">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 23"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="23/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 23/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 6"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 6/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 7"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 7/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 14"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 14/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 5"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 5/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 22"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 22/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 15"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="15/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 15/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 21"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="21/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 21/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_1">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_1/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/3_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="24">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 24"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="24/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 24/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="49">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/49" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 49"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="49/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/49" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 49/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="25">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 25"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="25/fast">
+				<Option output="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/liu/my_prog/example/jianzhioffer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/jianzhioffer/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 25/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/jianzhioffer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/1.cpp">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/14.cpp">
+			<Option target="14"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/15.cpp">
+			<Option target="15"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/18_01.cpp">
+			<Option target="18_01"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/2.cpp">
+			<Option target="2"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/21.cpp">
+			<Option target="21"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/22.cpp">
+			<Option target="22"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/23.cpp">
+			<Option target="23"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/24.cpp">
+			<Option target="24"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/25.cpp">
+			<Option target="25"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/26.cpp">
+			<Option target="26"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/27.cpp">
+			<Option target="27"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/28.cpp">
+			<Option target="28"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/30.cpp">
+			<Option target="30"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/33.cpp">
+			<Option target="33"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/34.cpp">
+			<Option target="34"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/36.cpp">
+			<Option target="36"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/3_1.cpp">
+			<Option target="3_1"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/3_2.cpp">
+			<Option target="3_2"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/4.cpp">
+			<Option target="4"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/41.cpp">
+			<Option target="41"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/49.cpp">
+			<Option target="49"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/5.cpp">
+			<Option target="5"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/52.cpp">
+			<Option target="52"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/57_01.cpp">
+			<Option target="57_01"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/59_02.cpp">
+			<Option target="59_02"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/6.cpp">
+			<Option target="6"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/7.cpp">
+			<Option target="7"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/jianzhioffer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/990.dir/huisu/990.cpp.o  -o 990 

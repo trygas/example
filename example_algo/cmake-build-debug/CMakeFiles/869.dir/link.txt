@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/869.dir/dongtaiguihua/869.cpp.o  -o 869 

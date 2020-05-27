@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1498.dir/tanxin/1498.cpp.o  -o 1498 

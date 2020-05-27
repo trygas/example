@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/uecho_con_client.dir/uecho_con_client.cpp.o  -o uecho_con_client 

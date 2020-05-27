@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/683.dir/dongtaiguihua/683.cpp.o  -o 683 

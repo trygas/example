@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/582.dir/DFS/582.cpp.o  -o 582 

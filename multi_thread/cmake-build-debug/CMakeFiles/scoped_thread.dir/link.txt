@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/scoped_thread.dir/scoped_thread.cpp.o  -o scoped_thread -lpthread 

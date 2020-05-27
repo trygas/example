@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/143.dir/paixu/143/143.cpp.o  -o 143 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/perfect_square.dir/perfect_square/perfect_square.cpp.o  -o perfect_square -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/perfect_square.dir/perfect_square/perfect_square.cpp.o  -o perfect_square 

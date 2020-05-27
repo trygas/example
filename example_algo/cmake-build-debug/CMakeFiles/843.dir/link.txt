@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/843.dir/dongtaiguihua/843.cpp.o  -o 843 

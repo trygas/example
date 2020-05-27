@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/k_num_sum.dir/k_num_sum/k_num_sum.cpp.o  -o k_num_sum -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/k_num_sum.dir/k_num_sum/k_num_sum.cpp.o  -o k_num_sum 

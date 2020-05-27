@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1002.dir/BFS/1002.cpp.o  -o 1002 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/52.dir/52.cpp.o  -o 52 

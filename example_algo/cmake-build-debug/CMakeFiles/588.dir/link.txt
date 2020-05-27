@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/588.dir/dongtaiguihua/588.cpp.o  -o 588 

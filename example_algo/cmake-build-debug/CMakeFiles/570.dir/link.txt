@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/570.dir/DFS/570.cpp.o  -o 570 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1428.dir/DFS/1428.cpp.o  -o 1428 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/135.dir/huisu/135.cpp.o  -o 135 

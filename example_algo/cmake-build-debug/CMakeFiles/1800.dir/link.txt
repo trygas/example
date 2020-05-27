@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1800.dir/dongtaiguihua/1800.cpp.o  -o 1800 

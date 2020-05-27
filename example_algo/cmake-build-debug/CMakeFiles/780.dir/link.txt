@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/780.dir/DFS/780.cpp.o  -o 780 

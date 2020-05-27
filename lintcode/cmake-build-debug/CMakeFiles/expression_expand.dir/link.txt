@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/expression_expand.dir/expression_expand/expression_expand.cpp.o  -o expression_expand -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/expression_expand.dir/expression_expand/expression_expand.cpp.o  -o expression_expand 

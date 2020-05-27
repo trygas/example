@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/400.dir/paixu/400/400.cpp.o  -o 400 

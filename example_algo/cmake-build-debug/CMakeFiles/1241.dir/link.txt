@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1241.dir/erfen/1241.cpp.o  -o 1241 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1256.dir/math/1256.cpp.o  -o 1256 

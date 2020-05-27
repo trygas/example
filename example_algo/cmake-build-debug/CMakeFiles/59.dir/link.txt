@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/59.dir/paixu/59/59.cpp.o  -o 59 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/22.dir/22.cpp.o  -o 22 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/28.dir/erfen/28.cpp.o  -o 28 

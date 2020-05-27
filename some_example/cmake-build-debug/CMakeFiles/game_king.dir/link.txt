@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/game_king.dir/game_king/game_king.cpp.o  -o game_king 

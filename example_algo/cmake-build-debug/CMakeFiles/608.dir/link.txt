@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/608.dir/TwoPointer/608.cpp.o  -o 608 

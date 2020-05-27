@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1109.dir/zifuchuan/1109.cpp.o  -o 1109 

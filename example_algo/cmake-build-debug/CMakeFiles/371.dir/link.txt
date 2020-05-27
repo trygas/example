@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/371.dir/digui/371.cpp.o  -o 371 

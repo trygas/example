@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/386.dir/TwoPointer/386.cpp.o  -o 386 

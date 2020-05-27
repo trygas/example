@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/last_zero.dir/last_zero/last_zero.cpp.o  -o last_zero -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/last_zero.dir/last_zero/last_zero.cpp.o  -o last_zero 

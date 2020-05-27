@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/function_bind.dir/function_bind/function_bind.cpp.o  -o function_bind -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/function_bind.dir/function_bind/function_bind.cpp.o  -o function_bind 

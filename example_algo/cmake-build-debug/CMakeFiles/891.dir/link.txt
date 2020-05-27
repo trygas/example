@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/891.dir/zifuchuan/891.cpp.o  -o 891 

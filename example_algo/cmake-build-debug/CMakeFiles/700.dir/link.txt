@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/700.dir/dongtaiguihua/700.cpp.o  -o 700 

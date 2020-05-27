@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1221.dir/DFS/1221.cpp.o  -o 1221 

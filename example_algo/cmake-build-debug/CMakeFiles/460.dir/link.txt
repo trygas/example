@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/460.dir/TwoPointer/460.cpp.o  -o 460 

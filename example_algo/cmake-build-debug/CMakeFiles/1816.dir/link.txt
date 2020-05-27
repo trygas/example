@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1816.dir/erfen/1816.cpp.o  -o 1816 

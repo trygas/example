@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/random_number.dir/random_number/random_number.cpp.o  -o random_number -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/random_number.dir/random_number/random_number.cpp.o  -o random_number 

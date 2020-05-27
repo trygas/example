@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/857.dir/dongtaiguihua/857.cpp.o  -o 857 

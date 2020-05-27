@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1015.dir/DFS/1015.cpp.o  -o 1015 

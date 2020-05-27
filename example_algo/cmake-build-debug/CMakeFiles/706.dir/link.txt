@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/706.dir/erjinzhi/706.cpp.o  -o 706 

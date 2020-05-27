@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/512.dir/dongtaiguihua/512.cpp.o  -o 512 

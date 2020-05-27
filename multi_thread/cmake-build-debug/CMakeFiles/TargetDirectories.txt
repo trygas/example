@@ -1,4 +1,12 @@
-/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_1.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/thread_safe_queue.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/hierarchical_mutex.dir
 /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_2.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/future.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/example2_1.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/scoped_thread.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/thread_sum.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/lock_two_mutex.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/thread_safe_stack.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles/mutex_example.dir

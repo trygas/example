@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/sse_sse2.dir/sse_sse2/sse_sse2.cpp.o  -o sse_sse2 -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/sse_sse2.dir/sse_sse2/sse_sse2.cpp.o  -o sse_sse2 

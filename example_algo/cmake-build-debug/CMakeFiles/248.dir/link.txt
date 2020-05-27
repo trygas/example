@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/248.dir/erfen/248.cpp.o  -o 248 

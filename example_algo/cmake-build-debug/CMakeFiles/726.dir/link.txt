@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/726.dir/BFS/726.cpp.o  -o 726 

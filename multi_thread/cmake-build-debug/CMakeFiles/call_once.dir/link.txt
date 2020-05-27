@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/call_once.dir/call_once.cpp.o  -o call_once -lpthread 

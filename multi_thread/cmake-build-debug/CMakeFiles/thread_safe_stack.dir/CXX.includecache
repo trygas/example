@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/my_prog/example/multi_thread/general.h
+thread
+-
+iostream
+-
+memory
+-
+vector
+-
+algorithm
+-
+numeric
+-
+functional
+-
+mutex
+-
+list
+-
+exception
+-
+stack
+-
+
+/home/liu/my_prog/example/multi_thread/thread_safe_stack.cpp
+general.h
+/home/liu/my_prog/example/multi_thread/general.h
+

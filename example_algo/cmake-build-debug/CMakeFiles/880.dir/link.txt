@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/880.dir/zifuchuan/880.cpp.o  -o 880 

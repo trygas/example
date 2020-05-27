@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lock_two_mutex.dir/lock_two_mutex.cpp.o  -o lock_two_mutex -lpthread 

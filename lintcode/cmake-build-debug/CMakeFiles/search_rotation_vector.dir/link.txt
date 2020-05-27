@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/search_rotation_vector.dir/search_rotation_vector/search_rotation_vector.cpp.o  -o search_rotation_vector -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/search_rotation_vector.dir/search_rotation_vector/search_rotation_vector.cpp.o  -o search_rotation_vector 

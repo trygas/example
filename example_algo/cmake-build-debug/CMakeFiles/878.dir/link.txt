@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/878.dir/DFS/878.cpp.o  -o 878 

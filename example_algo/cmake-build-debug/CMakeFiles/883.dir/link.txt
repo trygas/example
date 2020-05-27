@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/883.dir/TwoPointer/883.cpp.o  -o 883 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1242.dir/tanxin/1242.cpp.o  -o 1242 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1183.dir/erfen/1183.cpp.o  -o 1183 

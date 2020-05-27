@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="jianzhioffer" targetName="30" />
+      <config projectName="jianzhioffer" targetName="52" />
+      <config projectName="jianzhioffer" targetName="33" />
+      <config projectName="jianzhioffer" targetName="34" />
+      <config projectName="jianzhioffer" targetName="14" />
+      <config projectName="jianzhioffer" targetName="36" />
+      <config projectName="jianzhioffer" targetName="15" />
+      <config projectName="jianzhioffer" targetName="3_2" />
+      <config projectName="jianzhioffer" targetName="3_1" />
+      <config projectName="jianzhioffer" targetName="18_01" />
+      <config projectName="jianzhioffer" targetName="41" />
+      <config projectName="jianzhioffer" targetName="21" />
+      <config projectName="jianzhioffer" targetName="22" />
+      <config projectName="jianzhioffer" targetName="23" />
+      <config projectName="jianzhioffer" targetName="57_01" />
+      <config projectName="jianzhioffer" targetName="24" />
+      <config projectName="jianzhioffer" targetName="25" />
+      <config projectName="jianzhioffer" targetName="59_02" />
+      <config projectName="jianzhioffer" targetName="26" />
+      <config projectName="jianzhioffer" targetName="27" />
+      <config projectName="jianzhioffer" targetName="49" />
+      <config projectName="jianzhioffer" targetName="28" />
+      <config projectName="jianzhioffer" targetName="1" />
+      <config projectName="jianzhioffer" targetName="2" />
+      <config projectName="jianzhioffer" targetName="4" />
+      <config projectName="jianzhioffer" targetName="5" />
+      <config projectName="jianzhioffer" targetName="6" />
+      <config projectName="jianzhioffer" targetName="7" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b33b0352-799e-4c71-8a12-7e2e18776b13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/23.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lintcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/future.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/hierarchical_mutex.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/lock_two_mutex.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/mutex_example.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/scoped_thread.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/thread_safe_queue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/thread_safe_stack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_thread/thread_sum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/C++_reflection.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/bag_question/bag_question.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/bag_question.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/binary_tree_search_interval/binary_tree_search_interval.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_search_interval.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/binary_tree_vertical_traversal.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/buy_fruit/buy_fruit.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_fruit.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/buy_sell_stock/buy_sell_stock.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/buy_sell_stock_2/buy_sell_stock_2.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/buy_sell_stock_3/buy_sell_stock_3.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/buy_sell_stock_3.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/catch_card.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/character_case_order/character_case_order.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/character_case_order.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/class_schedule.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/configurator/configurator.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/configurator.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/count_num.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/cross_string/cross_string.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/cross_string.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_food.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eat_noddle.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/edit_distance.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/eigen_eigenvalues.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/example_template.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/expression_expand.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/find_string.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/full_data_sort.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/house_dyeing.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/k_num_sum/k_num_sum.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/k_num_sum.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ladder_length.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/last_zero.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/litte_friend.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_common_substring.dir/longest_common_substring/longest_common_substring.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/longest_rising_subsequence.dir/longest_rising_subsequence/longest_rising_subsequence.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/lowest_common_ancestor_binary_tree.dir/lowest_common_ancestor_binary_tree/lowest_common_ancestor_binary_tree.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/many_cpu.dir/many_cpu/many_cpu.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/max_square.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subarray_difference.dir/maximum_subarray_difference/maximum_subarray_difference.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/maximum_subdirectory.dir/maximum_subdirectory/maximum_subdirectory.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/min_stack.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/n_queen.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/out_of_order_string.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/perfect_square.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/range_addition.dir/range_addition/range_addition.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/re_hash.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/robbery.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/rotata_string.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_max.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_range.dir/search_range/search_range.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_sort_array.dir/search_rotation_sort_array/search_rotation_sort_array.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_rotation_vector.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/search_word.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/segment_tree_2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/stack_queue.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/subset.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ternary_parser.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/three_num_sum.dir/three_num_sum/three_sum_num.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/CMakeFiles/ugly_number.dir/ugly_number/ugly_number.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lintcode/cmake-build-debug/lintcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../lintcode/cmake-build-debug/lintcode.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Progress/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_thread/general.h" beforeDir="false" afterPath="$PROJECT_DIR$/../multi_thread/general.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/3.5.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/bilinear_interpolation/bilinear_interpolation.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bilinear_interpolation.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/bit_operation.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/five_fundamental/five_fundamental.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/five_fundamental.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/function_bind/function_bind.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/function_bind.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/hbst.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/nocopyable_class.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/parse_file/parse_file.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/parse_file.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/RAII/raii.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/raii.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/random_number.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/reference.dir/reference/reference.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rota.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/rotation_transportion.dir/rotation_transportion/rotation_transportion.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/share_ptr.dir/share_ptr/share_ptr.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/sse_sse2.dir/sse_sse2/sse_sse2.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std::function.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/std_function.dir/std_function/std_function.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/thread.dir/thread/thread.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/CMakeFiles/xx_cast.dir/xx_cast/xx_cast.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../some_example/cmake-build-debug/some_project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../some_example/cmake-build-debug/some_project.cbp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/59_02.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+              <folding>
+                <element signature="e#30#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/general.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3893">
+              <caret line="229" selection-start-line="229" selection-end-line="229" />
+              <folding>
+                <element signature="e#92#111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ListNode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.cpp" />
+        <option value="$PROJECT_DIR$/2.cpp" />
+        <option value="$PROJECT_DIR$/3.cpp" />
+        <option value="$PROJECT_DIR$/3_1.cpp" />
+        <option value="$PROJECT_DIR$/3_2.cpp" />
+        <option value="$PROJECT_DIR$/4.cpp" />
+        <option value="$PROJECT_DIR$/5.cpp" />
+        <option value="$PROJECT_DIR$/6.cpp" />
+        <option value="$PROJECT_DIR$/7.cpp" />
+        <option value="$PROJECT_DIR$/14.cpp" />
+        <option value="$PROJECT_DIR$/15.cpp" />
+        <option value="$PROJECT_DIR$/18_01.cpp" />
+        <option value="$PROJECT_DIR$/21.cpp" />
+        <option value="$PROJECT_DIR$/22.cpp" />
+        <option value="$PROJECT_DIR$/23.cpp" />
+        <option value="$PROJECT_DIR$/24.cpp" />
+        <option value="$PROJECT_DIR$/25.cpp" />
+        <option value="$PROJECT_DIR$/26.cpp" />
+        <option value="$PROJECT_DIR$/27.cpp" />
+        <option value="$PROJECT_DIR$/28.cpp" />
+        <option value="$PROJECT_DIR$/30.cpp" />
+        <option value="$PROJECT_DIR$/33.cpp" />
+        <option value="$PROJECT_DIR$/34.cpp" />
+        <option value="$PROJECT_DIR$/36.cpp" />
+        <option value="$PROJECT_DIR$/general.h" />
+        <option value="$PROJECT_DIR$/41.cpp" />
+        <option value="$PROJECT_DIR$/49.cpp" />
+        <option value="$PROJECT_DIR$/51.cpp" />
+        <option value="$PROJECT_DIR$/52.cpp" />
+        <option value="$PROJECT_DIR$/57_01.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/59_02.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/jianzhioffer.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="27" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jianzhioffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../multi_threading" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.57_01">
+    <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="15">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="18_01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="18_01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="18_01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="21" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="22" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="22" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="22">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="23" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="23" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="23">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="24" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="24">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="25" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="25" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="25">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="26" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="26" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="26">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="27" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="27" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="27">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="28" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="28" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="28">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="30" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="30" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="30">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="33" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="33" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="33">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="34" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="34" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="34">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="36" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="36" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="36">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="3_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="3_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="3_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="3_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="41" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="41" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="41">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="49" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="49" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="49">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="52" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="52" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="52">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="57_01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="57_01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="57_01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="59_02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="59_02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="59_02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jianzhioffer" TARGET_NAME="7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="jianzhioffer" RUN_TARGET_NAME="7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.14" />
+      <item itemvalue="CMake Application.15" />
+      <item itemvalue="CMake Application.18_01" />
+      <item itemvalue="CMake Application.1" />
+      <item itemvalue="CMake Application.21" />
+      <item itemvalue="CMake Application.22" />
+      <item itemvalue="CMake Application.23" />
+      <item itemvalue="CMake Application.24" />
+      <item itemvalue="CMake Application.25" />
+      <item itemvalue="CMake Application.26" />
+      <item itemvalue="CMake Application.27" />
+      <item itemvalue="CMake Application.28" />
+      <item itemvalue="CMake Application.2" />
+      <item itemvalue="CMake Application.30" />
+      <item itemvalue="CMake Application.33" />
+      <item itemvalue="CMake Application.34" />
+      <item itemvalue="CMake Application.36" />
+      <item itemvalue="CMake Application.3_1" />
+      <item itemvalue="CMake Application.3_2" />
+      <item itemvalue="CMake Application.4" />
+      <item itemvalue="CMake Application.41" />
+      <item itemvalue="CMake Application.49" />
+      <item itemvalue="CMake Application.5" />
+      <item itemvalue="CMake Application.52" />
+      <item itemvalue="CMake Application.57_01" />
+      <item itemvalue="CMake Application.59_02" />
+      <item itemvalue="CMake Application.6" />
+      <item itemvalue="CMake Application.7" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33b0352-799e-4c71-8a12-7e2e18776b13" name="Default Changelist" comment="" />
+      <created>1584718686369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584718686369</updated>
+      <workItem from="1584718692316" duration="3744000" />
+      <workItem from="1584874730183" duration="4548000" />
+      <workItem from="1584929347172" duration="1195000" />
+      <workItem from="1584937354951" duration="3005000" />
+      <workItem from="1584958875529" duration="3464000" />
+      <workItem from="1585014302285" duration="10416000" />
+      <workItem from="1585102289788" duration="5211000" />
+      <workItem from="1585188381880" duration="17527000" />
+      <workItem from="1585274177237" duration="589000" />
+      <workItem from="1585376939352" duration="596000" />
+      <workItem from="1585450133527" duration="1453000" />
+      <workItem from="1585536787020" duration="4160000" />
+      <workItem from="1585725858360" duration="12538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68446000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="27" width="960" height="1053" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510965" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/5.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="145" column="13" lean-forward="true" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="111" column="11" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1291">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/exception.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="174" column="12" lean-forward="true" selection-start-line="174" selection-start-column="12" selection-end-line="174" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_01.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#31#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+          <folding>
+            <element signature="e#92#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/49.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/51.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/52.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="137" column="24" lean-forward="true" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/57_01.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1194">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/59_02.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="e#30#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

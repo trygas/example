@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/77.dir/dongtaiguihua/77.cpp.o  -o 77 

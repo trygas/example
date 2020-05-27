@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/169.dir/huisu/169.cpp.o  -o 169 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/78.dir/zifuchuan/78.cpp.o  -o 78 

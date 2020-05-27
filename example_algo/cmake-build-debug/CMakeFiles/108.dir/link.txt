@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/108.dir/dongtaiguihua/108.cpp.o  -o 108 

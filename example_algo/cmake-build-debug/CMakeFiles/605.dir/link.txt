@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/605.dir/BFS/605.cpp.o  -o 605 

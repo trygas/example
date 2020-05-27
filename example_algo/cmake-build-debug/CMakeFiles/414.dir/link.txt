@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/414.dir/erfen/414.cpp.o  -o 414 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/518.dir/math/518.cpp.o  -o 518 

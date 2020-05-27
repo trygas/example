@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/752.dir/dongtaiguihua/752.cpp.o  -o 752 

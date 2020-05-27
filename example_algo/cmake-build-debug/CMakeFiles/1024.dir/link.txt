@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1024.dir/zifuchuan/1024.cpp.o  -o 1024 

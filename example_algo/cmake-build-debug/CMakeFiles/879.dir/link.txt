@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/879.dir/zifuchuan/879.cpp.o  -o 879 

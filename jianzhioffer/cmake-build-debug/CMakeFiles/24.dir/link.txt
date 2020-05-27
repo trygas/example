@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/24.dir/24.cpp.o  -o 24 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/192.dir/dongtaiguihua/192.cpp.o  -o 192 

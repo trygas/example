@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/704.dir/math/704.cpp.o  -o 704 

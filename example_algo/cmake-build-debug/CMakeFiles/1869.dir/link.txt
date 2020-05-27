@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1869.dir/dongtaiguihua/1869.cpp.o  -o 1869 

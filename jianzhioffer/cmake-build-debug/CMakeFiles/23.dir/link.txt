@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/23.dir/23.cpp.o  -o 23 

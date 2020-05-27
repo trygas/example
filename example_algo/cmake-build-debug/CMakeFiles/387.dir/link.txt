@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/387.dir/paixu/387/387.cpp.o  -o 387 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/178.dir/DFS/178.cpp.o  -o 178 

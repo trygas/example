@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/602.dir/dongtaiguihua/602.cpp.o  -o 602 

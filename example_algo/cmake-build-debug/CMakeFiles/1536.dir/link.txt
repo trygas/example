@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1536.dir/erfen/1536.cpp.o  -o 1536 

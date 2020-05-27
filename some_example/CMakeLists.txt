@@ -38,3 +38,6 @@ target_link_libraries(five_fundamental ${OpenCV_LIBS})
 
 add_executable(rotation_transportion rotation_transportion/rotation_transportion.cpp)
 target_link_libraries(rotation_transportion ${OpenCV_LIBS} ${Eigen3_LIBS})
+
+add_executable(game_king game_king/game_king.cpp)
+add_executable(find_string find_string/find_string.cpp)

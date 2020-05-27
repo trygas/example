@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/411.dir/digui/411.cpp.o  -o 411 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/binary_tree_vertical_traversal.dir/binary_tree_vertical_traversal/binary_tree_vertical_traversal.cpp.o  -o binary_tree_vertical_traversal -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/binary_tree_vertical_traversal.dir/binary_tree_vertical_traversal/binary_tree_vertical_traversal.cpp.o  -o binary_tree_vertical_traversal 

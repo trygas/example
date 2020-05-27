@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/913.dir/huisu/913.cpp.o  -o 913 
