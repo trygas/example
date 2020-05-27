@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/example_template.dir/example_template/example_template.cpp.o  -o example_template -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/example_template.dir/example_template/example_template.cpp.o  -o example_template 

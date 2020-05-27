@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/34.dir/34.cpp.o  -o 34 

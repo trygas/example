@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/57_01.dir/57_01.cpp.o  -o 57_01 

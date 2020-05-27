@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/36.dir/36.cpp.o  -o 36 

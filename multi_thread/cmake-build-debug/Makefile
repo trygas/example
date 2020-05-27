@@ -56,17 +56,6 @@ CMAKE_BINARY_DIR = /home/liu/my_prog/example/multi_thread/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/liu/Application/clion-2019.1.4/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -77,6 +66,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/home/liu/Application/clion-2019.1.4/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -111,17 +111,30 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named example2_1
+# Target rules for targets named thread_safe_queue
 
 # Build rule for target.
-example2_1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 example2_1
-.PHONY : example2_1
+thread_safe_queue: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 thread_safe_queue
+.PHONY : thread_safe_queue
 
 # fast build rule for target.
-example2_1/fast:
-	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/build
-.PHONY : example2_1/fast
+thread_safe_queue/fast:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/build
+.PHONY : thread_safe_queue/fast
+
+#=============================================================================
+# Target rules for targets named hierarchical_mutex
+
+# Build rule for target.
+hierarchical_mutex: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 hierarchical_mutex
+.PHONY : hierarchical_mutex
+
+# fast build rule for target.
+hierarchical_mutex/fast:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/build
+.PHONY : hierarchical_mutex/fast
 
 #=============================================================================
 # Target rules for targets named example2_2
@@ -135,6 +148,97 @@ example2_2: cmake_check_build_system
 example2_2/fast:
 	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/build
 .PHONY : example2_2/fast
+
+#=============================================================================
+# Target rules for targets named future
+
+# Build rule for target.
+future: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 future
+.PHONY : future
+
+# fast build rule for target.
+future/fast:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/build
+.PHONY : future/fast
+
+#=============================================================================
+# Target rules for targets named example2_1
+
+# Build rule for target.
+example2_1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 example2_1
+.PHONY : example2_1
+
+# fast build rule for target.
+example2_1/fast:
+	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/build
+.PHONY : example2_1/fast
+
+#=============================================================================
+# Target rules for targets named scoped_thread
+
+# Build rule for target.
+scoped_thread: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 scoped_thread
+.PHONY : scoped_thread
+
+# fast build rule for target.
+scoped_thread/fast:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/build
+.PHONY : scoped_thread/fast
+
+#=============================================================================
+# Target rules for targets named thread_sum
+
+# Build rule for target.
+thread_sum: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 thread_sum
+.PHONY : thread_sum
+
+# fast build rule for target.
+thread_sum/fast:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/build
+.PHONY : thread_sum/fast
+
+#=============================================================================
+# Target rules for targets named lock_two_mutex
+
+# Build rule for target.
+lock_two_mutex: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 lock_two_mutex
+.PHONY : lock_two_mutex
+
+# fast build rule for target.
+lock_two_mutex/fast:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/build
+.PHONY : lock_two_mutex/fast
+
+#=============================================================================
+# Target rules for targets named thread_safe_stack
+
+# Build rule for target.
+thread_safe_stack: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 thread_safe_stack
+.PHONY : thread_safe_stack
+
+# fast build rule for target.
+thread_safe_stack/fast:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/build
+.PHONY : thread_safe_stack/fast
+
+#=============================================================================
+# Target rules for targets named mutex_example
+
+# Build rule for target.
+mutex_example: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 mutex_example
+.PHONY : mutex_example
+
+# fast build rule for target.
+mutex_example/fast:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/build
+.PHONY : mutex_example/fast
 
 example2_1.o: example2_1.cpp.o
 
@@ -190,22 +294,270 @@ example2_2.cpp.s:
 	$(MAKE) -f CMakeFiles/example2_2.dir/build.make CMakeFiles/example2_2.dir/example2_2.cpp.s
 .PHONY : example2_2.cpp.s
 
+future.o: future.cpp.o
+
+.PHONY : future.o
+
+# target to build an object file
+future.cpp.o:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/future.cpp.o
+.PHONY : future.cpp.o
+
+future.i: future.cpp.i
+
+.PHONY : future.i
+
+# target to preprocess a source file
+future.cpp.i:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/future.cpp.i
+.PHONY : future.cpp.i
+
+future.s: future.cpp.s
+
+.PHONY : future.s
+
+# target to generate assembly for a file
+future.cpp.s:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/future.cpp.s
+.PHONY : future.cpp.s
+
+hierarchical_mutex.o: hierarchical_mutex.cpp.o
+
+.PHONY : hierarchical_mutex.o
+
+# target to build an object file
+hierarchical_mutex.cpp.o:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/hierarchical_mutex.cpp.o
+.PHONY : hierarchical_mutex.cpp.o
+
+hierarchical_mutex.i: hierarchical_mutex.cpp.i
+
+.PHONY : hierarchical_mutex.i
+
+# target to preprocess a source file
+hierarchical_mutex.cpp.i:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/hierarchical_mutex.cpp.i
+.PHONY : hierarchical_mutex.cpp.i
+
+hierarchical_mutex.s: hierarchical_mutex.cpp.s
+
+.PHONY : hierarchical_mutex.s
+
+# target to generate assembly for a file
+hierarchical_mutex.cpp.s:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/hierarchical_mutex.cpp.s
+.PHONY : hierarchical_mutex.cpp.s
+
+lock_two_mutex.o: lock_two_mutex.cpp.o
+
+.PHONY : lock_two_mutex.o
+
+# target to build an object file
+lock_two_mutex.cpp.o:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/lock_two_mutex.cpp.o
+.PHONY : lock_two_mutex.cpp.o
+
+lock_two_mutex.i: lock_two_mutex.cpp.i
+
+.PHONY : lock_two_mutex.i
+
+# target to preprocess a source file
+lock_two_mutex.cpp.i:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/lock_two_mutex.cpp.i
+.PHONY : lock_two_mutex.cpp.i
+
+lock_two_mutex.s: lock_two_mutex.cpp.s
+
+.PHONY : lock_two_mutex.s
+
+# target to generate assembly for a file
+lock_two_mutex.cpp.s:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/lock_two_mutex.cpp.s
+.PHONY : lock_two_mutex.cpp.s
+
+mutex_example.o: mutex_example.cpp.o
+
+.PHONY : mutex_example.o
+
+# target to build an object file
+mutex_example.cpp.o:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/mutex_example.cpp.o
+.PHONY : mutex_example.cpp.o
+
+mutex_example.i: mutex_example.cpp.i
+
+.PHONY : mutex_example.i
+
+# target to preprocess a source file
+mutex_example.cpp.i:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/mutex_example.cpp.i
+.PHONY : mutex_example.cpp.i
+
+mutex_example.s: mutex_example.cpp.s
+
+.PHONY : mutex_example.s
+
+# target to generate assembly for a file
+mutex_example.cpp.s:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/mutex_example.cpp.s
+.PHONY : mutex_example.cpp.s
+
+scoped_thread.o: scoped_thread.cpp.o
+
+.PHONY : scoped_thread.o
+
+# target to build an object file
+scoped_thread.cpp.o:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/scoped_thread.cpp.o
+.PHONY : scoped_thread.cpp.o
+
+scoped_thread.i: scoped_thread.cpp.i
+
+.PHONY : scoped_thread.i
+
+# target to preprocess a source file
+scoped_thread.cpp.i:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/scoped_thread.cpp.i
+.PHONY : scoped_thread.cpp.i
+
+scoped_thread.s: scoped_thread.cpp.s
+
+.PHONY : scoped_thread.s
+
+# target to generate assembly for a file
+scoped_thread.cpp.s:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/scoped_thread.cpp.s
+.PHONY : scoped_thread.cpp.s
+
+thread_safe_queue.o: thread_safe_queue.cpp.o
+
+.PHONY : thread_safe_queue.o
+
+# target to build an object file
+thread_safe_queue.cpp.o:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/thread_safe_queue.cpp.o
+.PHONY : thread_safe_queue.cpp.o
+
+thread_safe_queue.i: thread_safe_queue.cpp.i
+
+.PHONY : thread_safe_queue.i
+
+# target to preprocess a source file
+thread_safe_queue.cpp.i:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/thread_safe_queue.cpp.i
+.PHONY : thread_safe_queue.cpp.i
+
+thread_safe_queue.s: thread_safe_queue.cpp.s
+
+.PHONY : thread_safe_queue.s
+
+# target to generate assembly for a file
+thread_safe_queue.cpp.s:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/thread_safe_queue.cpp.s
+.PHONY : thread_safe_queue.cpp.s
+
+thread_safe_stack.o: thread_safe_stack.cpp.o
+
+.PHONY : thread_safe_stack.o
+
+# target to build an object file
+thread_safe_stack.cpp.o:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/thread_safe_stack.cpp.o
+.PHONY : thread_safe_stack.cpp.o
+
+thread_safe_stack.i: thread_safe_stack.cpp.i
+
+.PHONY : thread_safe_stack.i
+
+# target to preprocess a source file
+thread_safe_stack.cpp.i:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/thread_safe_stack.cpp.i
+.PHONY : thread_safe_stack.cpp.i
+
+thread_safe_stack.s: thread_safe_stack.cpp.s
+
+.PHONY : thread_safe_stack.s
+
+# target to generate assembly for a file
+thread_safe_stack.cpp.s:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/thread_safe_stack.cpp.s
+.PHONY : thread_safe_stack.cpp.s
+
+thread_sum.o: thread_sum.cpp.o
+
+.PHONY : thread_sum.o
+
+# target to build an object file
+thread_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/thread_sum.cpp.o
+.PHONY : thread_sum.cpp.o
+
+thread_sum.i: thread_sum.cpp.i
+
+.PHONY : thread_sum.i
+
+# target to preprocess a source file
+thread_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/thread_sum.cpp.i
+.PHONY : thread_sum.cpp.i
+
+thread_sum.s: thread_sum.cpp.s
+
+.PHONY : thread_sum.s
+
+# target to generate assembly for a file
+thread_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/thread_sum.cpp.s
+.PHONY : thread_sum.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... example2_1"
+	@echo "... thread_safe_queue"
+	@echo "... hierarchical_mutex"
 	@echo "... example2_2"
+	@echo "... future"
+	@echo "... example2_1"
+	@echo "... scoped_thread"
+	@echo "... thread_sum"
+	@echo "... lock_two_mutex"
+	@echo "... thread_safe_stack"
+	@echo "... rebuild_cache"
+	@echo "... mutex_example"
 	@echo "... example2_1.o"
 	@echo "... example2_1.i"
 	@echo "... example2_1.s"
 	@echo "... example2_2.o"
 	@echo "... example2_2.i"
 	@echo "... example2_2.s"
+	@echo "... future.o"
+	@echo "... future.i"
+	@echo "... future.s"
+	@echo "... hierarchical_mutex.o"
+	@echo "... hierarchical_mutex.i"
+	@echo "... hierarchical_mutex.s"
+	@echo "... lock_two_mutex.o"
+	@echo "... lock_two_mutex.i"
+	@echo "... lock_two_mutex.s"
+	@echo "... mutex_example.o"
+	@echo "... mutex_example.i"
+	@echo "... mutex_example.s"
+	@echo "... scoped_thread.o"
+	@echo "... scoped_thread.i"
+	@echo "... scoped_thread.s"
+	@echo "... thread_safe_queue.o"
+	@echo "... thread_safe_queue.i"
+	@echo "... thread_safe_queue.s"
+	@echo "... thread_safe_stack.o"
+	@echo "... thread_safe_stack.i"
+	@echo "... thread_safe_stack.s"
+	@echo "... thread_sum.o"
+	@echo "... thread_sum.i"
+	@echo "... thread_sum.s"
 .PHONY : help
 
 

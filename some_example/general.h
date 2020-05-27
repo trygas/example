@@ -19,6 +19,8 @@
 #include <fstream>
 #include <algorithm>
 #include <memory>
+#include <time.h>
+#include <utility>
 
 typedef unsigned char       ubyte;
 typedef unsigned short      ushort;

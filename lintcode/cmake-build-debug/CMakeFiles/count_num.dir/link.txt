@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/count_num.dir/count_num/count_num.cpp.o  -o count_num -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/count_num.dir/count_num/count_num.cpp.o  -o count_num 

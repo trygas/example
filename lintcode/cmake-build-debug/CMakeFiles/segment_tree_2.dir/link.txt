@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/segment_tree_2.dir/segment_tree_2/segment_tree_2.cpp.o  -o segment_tree_2 -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/segment_tree_2.dir/segment_tree_2/segment_tree_2.cpp.o  -o segment_tree_2 

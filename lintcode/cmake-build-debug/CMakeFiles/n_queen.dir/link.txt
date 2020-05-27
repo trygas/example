@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/n_queen.dir/n_queen/n_queen.cpp.o  -o n_queen -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/n_queen.dir/n_queen/n_queen.cpp.o  -o n_queen 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/catch_card.dir/catch_card/catch_card.cpp.o  -o catch_card -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/catch_card.dir/catch_card/catch_card.cpp.o  -o catch_card 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/example2_1.dir/example2_1.cpp.o  -o example2_1 -lpthread 

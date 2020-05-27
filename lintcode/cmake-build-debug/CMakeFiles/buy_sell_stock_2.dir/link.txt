@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/buy_sell_stock_2.dir/buy_sell_stock_2/buy_sell_stock_2.cpp.o  -o buy_sell_stock_2 -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/buy_sell_stock_2.dir/buy_sell_stock_2/buy_sell_stock_2.cpp.o  -o buy_sell_stock_2 

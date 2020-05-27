@@ -65,39 +65,76 @@ CMAKE_SOURCE_DIR = /home/liu/my_prog/example/multi_thread
 CMAKE_BINARY_DIR = /home/liu/my_prog/example/multi_thread/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/example2_1.dir
+# Target rules for target CMakeFiles/thread_safe_queue.dir
 
 # All Build rule for target.
-CMakeFiles/example2_1.dir/all:
-	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/depend
-	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target example2_1"
-.PHONY : CMakeFiles/example2_1.dir/all
+CMakeFiles/thread_safe_queue.dir/all:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/depend
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target thread_safe_queue"
+.PHONY : CMakeFiles/thread_safe_queue.dir/all
 
 # Include target in all.
-all: CMakeFiles/example2_1.dir/all
+all: CMakeFiles/thread_safe_queue.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/example2_1.dir/rule: cmake_check_build_system
+CMakeFiles/thread_safe_queue.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/example2_1.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/thread_safe_queue.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/example2_1.dir/rule
+.PHONY : CMakeFiles/thread_safe_queue.dir/rule
 
 # Convenience name for target.
-example2_1: CMakeFiles/example2_1.dir/rule
+thread_safe_queue: CMakeFiles/thread_safe_queue.dir/rule
 
-.PHONY : example2_1
-
-# clean rule for target.
-CMakeFiles/example2_1.dir/clean:
-	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/clean
-.PHONY : CMakeFiles/example2_1.dir/clean
+.PHONY : thread_safe_queue
 
 # clean rule for target.
-clean: CMakeFiles/example2_1.dir/clean
+CMakeFiles/thread_safe_queue.dir/clean:
+	$(MAKE) -f CMakeFiles/thread_safe_queue.dir/build.make CMakeFiles/thread_safe_queue.dir/clean
+.PHONY : CMakeFiles/thread_safe_queue.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/thread_safe_queue.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/hierarchical_mutex.dir
+
+# All Build rule for target.
+CMakeFiles/hierarchical_mutex.dir/all:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/depend
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target hierarchical_mutex"
+.PHONY : CMakeFiles/hierarchical_mutex.dir/all
+
+# Include target in all.
+all: CMakeFiles/hierarchical_mutex.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/hierarchical_mutex.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/hierarchical_mutex.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/hierarchical_mutex.dir/rule
+
+# Convenience name for target.
+hierarchical_mutex: CMakeFiles/hierarchical_mutex.dir/rule
+
+.PHONY : hierarchical_mutex
+
+# clean rule for target.
+CMakeFiles/hierarchical_mutex.dir/clean:
+	$(MAKE) -f CMakeFiles/hierarchical_mutex.dir/build.make CMakeFiles/hierarchical_mutex.dir/clean
+.PHONY : CMakeFiles/hierarchical_mutex.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/hierarchical_mutex.dir/clean
 
 .PHONY : clean
 
@@ -135,6 +172,265 @@ CMakeFiles/example2_2.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/example2_2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/future.dir
+
+# All Build rule for target.
+CMakeFiles/future.dir/all:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/depend
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target future"
+.PHONY : CMakeFiles/future.dir/all
+
+# Include target in all.
+all: CMakeFiles/future.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/future.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/future.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/future.dir/rule
+
+# Convenience name for target.
+future: CMakeFiles/future.dir/rule
+
+.PHONY : future
+
+# clean rule for target.
+CMakeFiles/future.dir/clean:
+	$(MAKE) -f CMakeFiles/future.dir/build.make CMakeFiles/future.dir/clean
+.PHONY : CMakeFiles/future.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/future.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/example2_1.dir
+
+# All Build rule for target.
+CMakeFiles/example2_1.dir/all:
+	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/depend
+	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target example2_1"
+.PHONY : CMakeFiles/example2_1.dir/all
+
+# Include target in all.
+all: CMakeFiles/example2_1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/example2_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/example2_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/example2_1.dir/rule
+
+# Convenience name for target.
+example2_1: CMakeFiles/example2_1.dir/rule
+
+.PHONY : example2_1
+
+# clean rule for target.
+CMakeFiles/example2_1.dir/clean:
+	$(MAKE) -f CMakeFiles/example2_1.dir/build.make CMakeFiles/example2_1.dir/clean
+.PHONY : CMakeFiles/example2_1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/example2_1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/scoped_thread.dir
+
+# All Build rule for target.
+CMakeFiles/scoped_thread.dir/all:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/depend
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target scoped_thread"
+.PHONY : CMakeFiles/scoped_thread.dir/all
+
+# Include target in all.
+all: CMakeFiles/scoped_thread.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/scoped_thread.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/scoped_thread.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/scoped_thread.dir/rule
+
+# Convenience name for target.
+scoped_thread: CMakeFiles/scoped_thread.dir/rule
+
+.PHONY : scoped_thread
+
+# clean rule for target.
+CMakeFiles/scoped_thread.dir/clean:
+	$(MAKE) -f CMakeFiles/scoped_thread.dir/build.make CMakeFiles/scoped_thread.dir/clean
+.PHONY : CMakeFiles/scoped_thread.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/scoped_thread.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/thread_sum.dir
+
+# All Build rule for target.
+CMakeFiles/thread_sum.dir/all:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/depend
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target thread_sum"
+.PHONY : CMakeFiles/thread_sum.dir/all
+
+# Include target in all.
+all: CMakeFiles/thread_sum.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/thread_sum.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/thread_sum.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/thread_sum.dir/rule
+
+# Convenience name for target.
+thread_sum: CMakeFiles/thread_sum.dir/rule
+
+.PHONY : thread_sum
+
+# clean rule for target.
+CMakeFiles/thread_sum.dir/clean:
+	$(MAKE) -f CMakeFiles/thread_sum.dir/build.make CMakeFiles/thread_sum.dir/clean
+.PHONY : CMakeFiles/thread_sum.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/thread_sum.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lock_two_mutex.dir
+
+# All Build rule for target.
+CMakeFiles/lock_two_mutex.dir/all:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/depend
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target lock_two_mutex"
+.PHONY : CMakeFiles/lock_two_mutex.dir/all
+
+# Include target in all.
+all: CMakeFiles/lock_two_mutex.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lock_two_mutex.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lock_two_mutex.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/lock_two_mutex.dir/rule
+
+# Convenience name for target.
+lock_two_mutex: CMakeFiles/lock_two_mutex.dir/rule
+
+.PHONY : lock_two_mutex
+
+# clean rule for target.
+CMakeFiles/lock_two_mutex.dir/clean:
+	$(MAKE) -f CMakeFiles/lock_two_mutex.dir/build.make CMakeFiles/lock_two_mutex.dir/clean
+.PHONY : CMakeFiles/lock_two_mutex.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/lock_two_mutex.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/thread_safe_stack.dir
+
+# All Build rule for target.
+CMakeFiles/thread_safe_stack.dir/all:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/depend
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target thread_safe_stack"
+.PHONY : CMakeFiles/thread_safe_stack.dir/all
+
+# Include target in all.
+all: CMakeFiles/thread_safe_stack.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/thread_safe_stack.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/thread_safe_stack.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/thread_safe_stack.dir/rule
+
+# Convenience name for target.
+thread_safe_stack: CMakeFiles/thread_safe_stack.dir/rule
+
+.PHONY : thread_safe_stack
+
+# clean rule for target.
+CMakeFiles/thread_safe_stack.dir/clean:
+	$(MAKE) -f CMakeFiles/thread_safe_stack.dir/build.make CMakeFiles/thread_safe_stack.dir/clean
+.PHONY : CMakeFiles/thread_safe_stack.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/thread_safe_stack.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/mutex_example.dir
+
+# All Build rule for target.
+CMakeFiles/mutex_example.dir/all:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/depend
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target mutex_example"
+.PHONY : CMakeFiles/mutex_example.dir/all
+
+# Include target in all.
+all: CMakeFiles/mutex_example.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/mutex_example.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/mutex_example.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/liu/my_prog/example/multi_thread/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/mutex_example.dir/rule
+
+# Convenience name for target.
+mutex_example: CMakeFiles/mutex_example.dir/rule
+
+.PHONY : mutex_example
+
+# clean rule for target.
+CMakeFiles/mutex_example.dir/clean:
+	$(MAKE) -f CMakeFiles/mutex_example.dir/build.make CMakeFiles/mutex_example.dir/clean
+.PHONY : CMakeFiles/mutex_example.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/mutex_example.dir/clean
 
 .PHONY : clean
 

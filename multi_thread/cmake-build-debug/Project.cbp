@@ -17,16 +17,6 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/liu/my_prog/example/multi_thread/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/liu/my_prog/example/multi_thread/cmake-build-debug"/>
 				<Option type="4"/>
@@ -37,8 +27,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="example2_1">
-				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/example2_1" prefix_auto="0" extension_auto="0"/>
+			<Target title="thread_safe_queue">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_safe_queue" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir=""/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -55,14 +45,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 example2_1"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_safe_queue"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="example2_1/fast">
-				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/example2_1" prefix_auto="0" extension_auto="0"/>
+			<Target title="thread_safe_queue/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_safe_queue" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir=""/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -79,7 +69,55 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 example2_1/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_safe_queue/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hierarchical_mutex">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/hierarchical_mutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 hierarchical_mutex"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hierarchical_mutex/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/hierarchical_mutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 hierarchical_mutex/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -133,12 +171,382 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="future">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/future" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 future"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="future/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/future" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 future/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example2_1">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/example2_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 example2_1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example2_1/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/example2_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 example2_1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scoped_thread">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/scoped_thread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 scoped_thread"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scoped_thread/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/scoped_thread" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 scoped_thread/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_sum">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_sum"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_sum/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_sum/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lock_two_mutex">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/lock_two_mutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 lock_two_mutex"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lock_two_mutex/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/lock_two_mutex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 lock_two_mutex/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_safe_stack">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_safe_stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_safe_stack"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_safe_stack/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/thread_safe_stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_safe_stack/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/liu/my_prog/example/multi_thread/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mutex_example">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/mutex_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 mutex_example"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mutex_example/fast">
+				<Option output="/home/liu/my_prog/example/multi_thread/cmake-build-debug/mutex_example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/liu/my_prog/example/multi_thread/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 mutex_example/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/liu/my_prog/example/multi_thread/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/home/liu/my_prog/example/multi_thread/example2_1.cpp">
 			<Option target="example2_1"/>
 		</Unit>
 		<Unit filename="/home/liu/my_prog/example/multi_thread/example2_2.cpp">
 			<Option target="example2_2"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/future.cpp">
+			<Option target="future"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/hierarchical_mutex.cpp">
+			<Option target="hierarchical_mutex"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/lock_two_mutex.cpp">
+			<Option target="lock_two_mutex"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/mutex_example.cpp">
+			<Option target="mutex_example"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/scoped_thread.cpp">
+			<Option target="scoped_thread"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/thread_safe_queue.cpp">
+			<Option target="thread_safe_queue"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/thread_safe_stack.cpp">
+			<Option target="thread_safe_stack"/>
+		</Unit>
+		<Unit filename="/home/liu/my_prog/example/multi_thread/thread_sum.cpp">
+			<Option target="thread_sum"/>
 		</Unit>
 		<Unit filename="/home/liu/my_prog/example/multi_thread/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

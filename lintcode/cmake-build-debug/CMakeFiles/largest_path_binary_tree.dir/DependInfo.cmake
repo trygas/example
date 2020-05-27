@@ -4,14 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/liu/my_progs/lintcode/largest_path_binary_tree/largest_path_binary_tree.cpp" "/home/liu/my_progs/lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/largest_path_binary_tree/largest_path_binary_tree.cpp.o"
+  "/home/liu/my_prog/example/lintcode/largest_path_binary_tree/largest_path_binary_tree.cpp" "/home/liu/my_prog/example/lintcode/cmake-build-debug/CMakeFiles/largest_path_binary_tree.dir/largest_path_binary_tree/largest_path_binary_tree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/include/opencv"
-  "/usr/local/include"
   "../"
   "/usr/local/include/eigen3"
   )

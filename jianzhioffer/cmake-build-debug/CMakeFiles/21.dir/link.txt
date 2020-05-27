@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/21.dir/21.cpp.o  -o 21 

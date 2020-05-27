@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/bag_question.dir/bag_question/bag_question.cpp.o  -o bag_question -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/bag_question.dir/bag_question/bag_question.cpp.o  -o bag_question 

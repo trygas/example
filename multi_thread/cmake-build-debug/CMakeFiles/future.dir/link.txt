@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/future.dir/future.cpp.o  -o future -lpthread 

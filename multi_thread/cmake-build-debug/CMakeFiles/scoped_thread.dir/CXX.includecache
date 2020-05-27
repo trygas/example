@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liu/my_prog/example/multi_thread/general.h
+thread
+-
+iostream
+-
+memory
+-
+vector
+-
+
+/home/liu/my_prog/example/multi_thread/scoped_thread.cpp
+general.h
+/home/liu/my_prog/example/multi_thread/general.h
+

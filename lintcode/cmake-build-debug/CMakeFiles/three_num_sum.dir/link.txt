@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/three_num_sum.dir/three_num_sum/three_sum_num.cpp.o  -o three_num_sum -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/three_num_sum.dir/three_num_sum/three_sum_num.cpp.o  -o three_num_sum 

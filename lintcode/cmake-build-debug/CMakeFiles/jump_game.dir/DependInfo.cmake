@@ -4,14 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/liu/my_progs/lintcode/jump_game/jump_game.cpp" "/home/liu/my_progs/lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/jump_game/jump_game.cpp.o"
+  "/home/liu/my_prog/example/lintcode/jump_game/jump_game.cpp" "/home/liu/my_prog/example/lintcode/cmake-build-debug/CMakeFiles/jump_game.dir/jump_game/jump_game.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/include/opencv"
-  "/usr/local/include"
   "../"
   "/usr/local/include/eigen3"
   )

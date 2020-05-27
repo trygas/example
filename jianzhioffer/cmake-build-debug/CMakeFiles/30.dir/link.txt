@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/30.dir/30.cpp.o  -o 30 

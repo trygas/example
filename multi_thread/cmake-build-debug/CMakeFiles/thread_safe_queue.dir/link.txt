@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/thread_safe_queue.dir/thread_safe_queue.cpp.o  -o thread_safe_queue -lpthread 

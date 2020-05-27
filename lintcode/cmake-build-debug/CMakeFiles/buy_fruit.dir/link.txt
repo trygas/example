@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/buy_fruit.dir/buy_fruit/buy_fruit.cpp.o  -o buy_fruit -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/buy_fruit.dir/buy_fruit/buy_fruit.cpp.o  -o buy_fruit 

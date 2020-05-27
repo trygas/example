@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libexif.so -o libexif.so CMakeFiles/exif.dir/Read_EXIF/TinyEXIF.cpp.o 

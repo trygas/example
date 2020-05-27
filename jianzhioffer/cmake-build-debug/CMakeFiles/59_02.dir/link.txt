@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/59_02.dir/59_02.cpp.o  -o 59_02 

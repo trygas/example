@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/41.dir/41.cpp.o  -o 41 

@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/min_stack.dir/min_stack/min_stack.cpp.o  -o min_stack -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/min_stack.dir/min_stack/min_stack.cpp.o  -o min_stack 

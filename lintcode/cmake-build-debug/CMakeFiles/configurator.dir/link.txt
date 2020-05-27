@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/configurator.dir/configurator/configurator.cpp.o  -o configurator -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/configurator.dir/configurator/configurator.cpp.o  -o configurator 

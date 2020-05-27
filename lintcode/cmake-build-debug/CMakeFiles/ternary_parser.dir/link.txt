@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/ternary_parser.dir/ternary_parser/ternary_parser.cpp.o  -o ternary_parser -rdynamic 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/ternary_parser.dir/ternary_parser/ternary_parser.cpp.o  -o ternary_parser 
